@@ -29,11 +29,11 @@ def weaponResult(image_list):
     item_uzi = 0
     
     prediction = CustomImagePrediction()
-    prediction.setModelPath(model_path=os.path.join(execution_path, "model_ex-030_acc-0.977193.h5"))
+    prediction.setModelPath(model_path=os.path.join(execution_path, "model_ex-031_acc-0.980000.h5"))
     prediction.setJsonPath(model_json=os.path.join(execution_path, "model_class.json"))
-    prediction.setModelTypeAsResNet()
+    # prediction.setModelTypeAsResNet()
     # prediction.setModelTypeAsInceptionV3()
-    # prediction.setModelTypeAsDenseNet()
+    prediction.setModelTypeAsDenseNet()
     prediction.loadModel(num_objects=10)
     
     for image_path in image_list:
@@ -134,7 +134,7 @@ def findDir(directory):
     return image_list
                 
 def main():
-    image_list = findDir("D:/VM Shared/3204/simple_images/non-weapons/comparison")
+    image_list = findDir("D:/VM Shared/3204/dashboard/comparison")
     weaponResult(image_list)
     endtime = datetime.now()
     end_time = endtime.strftime("%H:%M:%S")
