@@ -5,10 +5,15 @@ import sys
 import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
 import matplotlib.pyplot as plt
+from datetime import datetime
 
 
 def weaponResult(image_list):
     execution_path = os.getcwd()
+
+    now = datetime.now()
+    start_time = now.strftime("%H:%M:%S")
+    print("Start Time =", start_time)
 
     weapon_found = []
     weapon_found_acc = []
@@ -129,8 +134,11 @@ def findDir(directory):
     return image_list
                 
 def main():
-    image_list = findDir("D:/VM Shared/3204/simple_images/non-weapons/comparison")
+    image_list = findDir("D:/VM Shared/3204/dashboard/comparison")
     weaponResult(image_list)
+    endtime = datetime.now()
+    end_time = endtime.strftime("%H:%M:%S")
+    print("End Time =", end_time)
 
 if __name__ == "__main__":
 	main()

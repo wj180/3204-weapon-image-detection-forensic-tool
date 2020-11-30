@@ -5,10 +5,15 @@ import sys
 import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
 import matplotlib.pyplot as plt
+from datetime import datetime
 
 
 def weaponResult(image_list):
     execution_path = os.getcwd()
+
+    now = datetime.now()
+    start_time = now.strftime("%H:%M:%S")
+    print("Start Time =", start_time)
 
     weapon_found = []
     weapon_found_acc = []
@@ -24,10 +29,10 @@ def weaponResult(image_list):
     item_uzi = 0
     
     prediction = CustomImagePrediction()
-    prediction.setModelPath(model_path=os.path.join(execution_path, "model_ex-035_acc-0.987719.h5"))
+    prediction.setModelPath(model_path=os.path.join(execution_path, "model_ex-030_acc-0.977193.h5"))
     prediction.setJsonPath(model_json=os.path.join(execution_path, "model_class.json"))
-    # prediction.setModelTypeAsResNet()
-    prediction.setModelTypeAsInceptionV3()
+    prediction.setModelTypeAsResNet()
+    # prediction.setModelTypeAsInceptionV3()
     # prediction.setModelTypeAsDenseNet()
     prediction.loadModel(num_objects=10)
     
@@ -131,6 +136,9 @@ def findDir(directory):
 def main():
     image_list = findDir("D:/VM Shared/3204/simple_images/non-weapons/comparison")
     weaponResult(image_list)
+    endtime = datetime.now()
+    end_time = endtime.strftime("%H:%M:%S")
+    print("End Time =", end_time)
 
 if __name__ == "__main__":
 	main()

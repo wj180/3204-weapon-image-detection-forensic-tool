@@ -1,0 +1,2147 @@
+Start Time = 21:34:34
+ammunition_301.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99948740005493)
+ammunition_302.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.96308088302612)
+ammunition_303.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.9954342842102)
+ammunition_304.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99699592590332)
+ammunition_305.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99107122421265)
+ammunition_306.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.87480640411377)
+ammunition_307.png
+(1, ' : ', 'ammunition', ' : ', 99.95854496955872)
+ammunition_308.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.98892545700073)
+ammunition_309.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.9982476234436)
+ammunition_310.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.98032450675964)
+ammunition_311.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99516010284424)
+ammunition_312.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99309778213501)
+ammunition_313.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99992847442627)
+ammunition_314.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99034404754639)
+ammunition_315.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.94389414787292)
+ammunition_316.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.83799457550049)
+ammunition_317.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99880790710449)
+ammunition_318.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.92489218711853)
+ammunition_319.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.93799924850464)
+ammunition_320.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.997079372406)
+ammunition_321.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99977350234985)
+ammunition_322.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.9900221824646)
+ammunition_323.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99873638153076)
+ammunition_324.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99899864196777)
+ammunition_325.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.9022364616394)
+ammunition_326.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99648332595825)
+ammunition_327.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99977350234985)
+ammunition_328.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.98866319656372)
+ammunition_329.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99964237213135)
+ammunition_330.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.91395473480225)
+ammunition_331.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99816417694092)
+ammunition_332.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99654293060303)
+ammunition_333.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99048709869385)
+ammunition_334.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.87626075744629)
+ammunition_335.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99734163284302)
+ammunition_336.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.98229146003723)
+ammunition_337.png
+(1, ' : ', 'ammunition', ' : ', 99.8651921749115)
+ammunition_338.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.98575448989868)
+ammunition_339.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99895095825195)
+ammunition_340.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.9870777130127)
+ammunition_341.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.92640614509583)
+ammunition_342.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.94667172431946)
+ammunition_343.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.98891353607178)
+ammunition_344.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99994039535522)
+ammunition_345.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.95512366294861)
+ammunition_346.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.97140765190125)
+ammunition_347.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.95810389518738)
+ammunition_348.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99910593032837)
+ammunition_349.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.98018145561218)
+ammunition_350.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.98656511306763)
+ammunition_351.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99551773071289)
+ammunition_352.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99655485153198)
+ammunition_353.png
+(1, ' : ', 'ammunition', ' : ', 99.9559223651886)
+ammunition_354.png
+(1, ' : ', 'ammunition', ' : ', 99.99765157699585)
+ammunition_355.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.75591897964478)
+ammunition_356.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.9946117401123)
+ammunition_357.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99915361404419)
+ammunition_358.png
+(1, ' : ', 'ammunition', ' : ', 99.99885559082031)
+ammunition_359.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99816417694092)
+ammunition_360.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.98576641082764)
+ammunition_361.png
+(1, ' : ', 'ammunition', ' : ', 99.95571970939636)
+ammunition_362.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.84390139579773)
+ammunition_363.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.9961256980896)
+ammunition_364.png
+(1, ' : ', 'ammunition', ' : ', 99.99746084213257)
+ammunition_365.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99901056289673)
+ammunition_366.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99819993972778)
+ammunition_367.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.96979236602783)
+ammunition_368.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99927282333374)
+ammunition_369.png
+(1, ' : ', 'ammunition', ' : ', 99.9974012374878)
+ammunition_370.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99953508377075)
+ammunition_371.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.92095232009888)
+ammunition_372.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.9860405921936)
+ammunition_373.jpeg
+(1, ' : ', 'ammunition', ' : ', 100.0)
+ammunition_374.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99756813049316)
+ammunition_375.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99995231628418)
+ammunition_376.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99948740005493)
+ammunition_377.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.96308088302612)
+ammunition_378.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.9954342842102)
+ammunition_379.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99699592590332)
+ammunition_380.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99107122421265)
+ammunition_381.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.87480640411377)
+ammunition_382.png
+(1, ' : ', 'ammunition', ' : ', 99.95854496955872)
+ammunition_383.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.98892545700073)
+ammunition_384.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.9982476234436)
+ammunition_385.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.98032450675964)
+ammunition_386.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99516010284424)
+ammunition_387.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99309778213501)
+ammunition_388.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99992847442627)
+ammunition_389.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99034404754639)
+ammunition_390.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.94389414787292)
+ammunition_391.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.83799457550049)
+ammunition_392.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99880790710449)
+ammunition_393.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.92489218711853)
+ammunition_394.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.93799924850464)
+ammunition_395.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.997079372406)
+ammunition_396.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99977350234985)
+ammunition_397.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.9900221824646)
+ammunition_398.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99873638153076)
+ammunition_399.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99899864196777)
+ammunition_400.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99648332595825)
+bag_41.png
+(1, ' : ', 'grenade', ' : ', 99.8727023601532)
+bag_42.jpeg : Not a weapon
+bag_43.jpeg : Not a weapon
+bag_44.jpeg : Not a weapon
+bag_45.jpeg : Not a weapon
+bag_46.jpeg : Not a weapon
+bag_47.jpeg : Not a weapon
+bag_48.png : Not a weapon
+bag_49.jpeg : Not a weapon
+bag_50.jpeg : Not a weapon
+book_41.jpeg : Not a weapon
+book_42.jpeg : Not a weapon
+book_43.jpeg : Not a weapon
+book_44.jpeg : Not a weapon
+book_45.jpeg : Not a weapon
+book_46.jpeg : Not a weapon
+book_47.jpeg : Not a weapon
+book_48.jpeg : Not a weapon
+book_49.jpeg : Not a weapon
+book_50.jpeg : Not a weapon
+bottle_41.jpeg : Not a weapon
+bottle_42.jpeg : Not a weapon
+bottle_43.jpeg : Not a weapon
+bottle_44.png : Not a weapon
+bottle_45.jpeg : Not a weapon
+bottle_46.png : Not a weapon
+bottle_47.png : Not a weapon
+bottle_48.jpeg : Not a weapon
+bottle_49.jpeg : Not a weapon
+bottle_50.jpeg : Not a weapon
+camera_41.jpeg : Not a weapon
+camera_42.jpeg : Not a weapon
+camera_43.jpeg : Not a weapon
+camera_44.jpeg : Not a weapon
+camera_45.jpeg : Not a weapon
+camera_46.jpeg : Not a weapon
+camera_47.jpeg : Not a weapon
+camera_48.jpeg : Not a weapon
+camera_49.jpeg : Not a weapon
+camera_50.jpeg : Not a weapon
+chair_41.jpeg : Not a weapon
+chair_42.jpeg : Not a weapon
+chair_43.jpeg : Not a weapon
+chair_44.jpeg : Not a weapon
+chair_45.jpeg : Not a weapon
+chair_46.jpeg : Not a weapon
+chair_47.jpeg : Not a weapon
+chair_48.jpeg : Not a weapon
+chair_49.jpeg : Not a weapon
+chair_50.jpeg : Not a weapon
+computer_41.jpeg : Not a weapon
+computer_42.jpeg : Not a weapon
+computer_43.jpeg : Not a weapon
+computer_44.jpeg : Not a weapon
+computer_45.jpeg : Not a weapon
+computer_46.jpeg : Not a weapon
+computer_47.jpeg : Not a weapon
+computer_48.jpeg : Not a weapon
+computer_49.jpeg : Not a weapon
+computer_50.jpeg : Not a weapon
+door_41.jpeg : Not a weapon
+door_42.jpeg : Not a weapon
+door_43.jpeg : Not a weapon
+door_44.jpeg : Not a weapon
+door_46.jpeg : Not a weapon
+door_47.png : Not a weapon
+door_48.jpeg : Not a weapon
+door_49.jpeg : Not a weapon
+door_50.jpeg : Not a weapon
+grenade_301.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99408721923828)
+grenade_302.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99924898147583)
+grenade_303.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99995231628418)
+grenade_305.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99815225601196)
+grenade_306.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99088048934937)
+grenade_308.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99966621398926)
+grenade_309.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99241828918457)
+grenade_310.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99350309371948)
+grenade_311.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99922513961792)
+grenade_312.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99696016311646)
+grenade_313.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99884366989136)
+grenade_314.jpeg
+(1, ' : ', 'grenade', ' : ', 99.97288584709167)
+grenade_315.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99744892120361)
+grenade_316.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99351501464844)
+grenade_317.png
+(1, ' : ', 'grenade', ' : ', 99.99947547912598)
+grenade_318.png
+(1, ' : ', 'grenade', ' : ', 99.99924898147583)
+grenade_319.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99390840530396)
+grenade_320.jpeg
+(1, ' : ', 'grenade', ' : ', 99.98857975006104)
+grenade_321.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99997615814209)
+grenade_322.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99366998672485)
+grenade_323.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99855756759644)
+grenade_324.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99560117721558)
+grenade_325.jpeg
+(1, ' : ', 'grenade', ' : ', 99.96271133422852)
+grenade_326.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99667406082153)
+grenade_327.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99972581863403)
+grenade_328.jpeg
+(1, ' : ', 'grenade', ' : ', 99.9998688697815)
+grenade_329.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99957084655762)
+grenade_330.jpeg
+(1, ' : ', 'grenade', ' : ', 99.89846348762512)
+grenade_331.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99821186065674)
+grenade_332.png
+(1, ' : ', 'grenade', ' : ', 99.96408224105835)
+grenade_333.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99557733535767)
+grenade_334.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99960660934448)
+grenade_335.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99855756759644)
+grenade_336.png
+(1, ' : ', 'grenade', ' : ', 99.96592998504639)
+grenade_337.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99103546142578)
+grenade_338.png
+(1, ' : ', 'grenade', ' : ', 99.9985933303833)
+grenade_339.jpeg
+(1, ' : ', 'grenade', ' : ', 99.94193315505981)
+grenade_340.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99290704727173)
+grenade_341.jpeg
+(1, ' : ', 'grenade', ' : ', 99.97715353965759)
+grenade_342.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99992847442627)
+grenade_343.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99194145202637)
+grenade_344.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99676942825317)
+grenade_345.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99815225601196)
+grenade_346.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99504089355469)
+grenade_347.jpeg
+(1, ' : ', 'grenade', ' : ', 100.0)
+grenade_348.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99997615814209)
+grenade_349.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99680519104004)
+grenade_350.jpeg
+(1, ' : ', 'grenade', ' : ', 99.95445609092712)
+grenade_351.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99985694885254)
+grenade_352.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99972581863403)
+grenade_353.jpeg
+(1, ' : ', 'grenade', ' : ', 100.0)
+grenade_354.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99996423721313)
+grenade_355.png
+(1, ' : ', 'grenade', ' : ', 99.99793767929077)
+grenade_356.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99977350234985)
+grenade_357.jpeg
+(1, ' : ', 'grenade', ' : ', 99.89700317382812)
+grenade_358.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99260902404785)
+grenade_359.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99918937683105)
+grenade_360.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99998807907104)
+grenade_361.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99738931655884)
+grenade_362.jpeg
+(1, ' : ', 'grenade', ' : ', 99.9980092048645)
+grenade_363.jpeg
+(1, ' : ', 'grenade', ' : ', 99.9893307685852)
+grenade_364.jpeg
+(1, ' : ', 'grenade', ' : ', 99.97827410697937)
+grenade_365.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99620914459229)
+grenade_366.jpeg
+(1, ' : ', 'grenade', ' : ', 99.9982476234436)
+grenade_367.jpeg
+(1, ' : ', 'grenade', ' : ', 99.97946619987488)
+grenade_368.png
+(1, ' : ', 'grenade', ' : ', 99.99727010726929)
+grenade_369.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99969005584717)
+grenade_370.jpeg
+(1, ' : ', 'grenade', ' : ', 99.95980858802795)
+grenade_371.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99716281890869)
+grenade_372.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99996423721313)
+grenade_373.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99127388000488)
+grenade_374.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99779462814331)
+grenade_375.jpeg
+(1, ' : ', 'grenade', ' : ', 99.9991774559021)
+grenade_376.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99408721923828)
+grenade_377.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99924898147583)
+grenade_378.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99995231628418)
+grenade_380.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99815225601196)
+grenade_381.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99088048934937)
+grenade_383.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99966621398926)
+grenade_384.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99241828918457)
+grenade_385.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99350309371948)
+grenade_386.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99922513961792)
+grenade_387.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99696016311646)
+grenade_388.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99884366989136)
+grenade_389.jpeg
+(1, ' : ', 'grenade', ' : ', 99.97288584709167)
+grenade_390.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99744892120361)
+grenade_391.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99351501464844)
+grenade_392.png
+(1, ' : ', 'grenade', ' : ', 99.99947547912598)
+grenade_393.png
+(1, ' : ', 'grenade', ' : ', 99.99924898147583)
+grenade_394.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99390840530396)
+grenade_395.jpeg
+(1, ' : ', 'grenade', ' : ', 99.98857975006104)
+grenade_396.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99997615814209)
+grenade_397.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99366998672485)
+grenade_398.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99855756759644)
+grenade_399.jpeg
+(1, ' : ', 'grenade', ' : ', 99.99560117721558)
+grenade_400.jpeg
+(1, ' : ', 'grenade', ' : ', 99.96271133422852)
+handphone_41.jpeg : Not a weapon
+handphone_42.jpeg : Not a weapon
+handphone_43.jpeg : Not a weapon
+handphone_44.jpeg : Not a weapon
+handphone_45.jpeg : Not a weapon
+handphone_46.jpeg : Not a weapon
+handphone_47.jpeg : Not a weapon
+handphone_48.png : Not a weapon
+handphone_49.jpeg : Not a weapon
+handphone_50.jpeg : Not a weapon
+laptop_31.jpeg : Not a weapon
+laptop_32.jpeg : Not a weapon
+laptop_33.png : Not a weapon
+laptop_34.jpeg : Not a weapon
+laptop_35.jpeg : Not a weapon
+laptop_36.jpeg : Not a weapon
+laptop_37.jpeg : Not a weapon
+laptop_38.jpeg : Not a weapon
+laptop_39.jpeg : Not a weapon
+laptop_40.jpeg : Not a weapon
+machine_gun_301.jpeg
+(1, ' : ', 'gun', ' : ', 99.99728202819824)
+machine_gun_302.jpeg
+(1, ' : ', 'gun', ' : ', 99.98624324798584)
+machine_gun_303.png
+(1, ' : ', 'gun', ' : ', 99.94465708732605)
+machine_gun_304.jpeg
+(1, ' : ', 'gun', ' : ', 99.99836683273315)
+machine_gun_305.jpeg
+(1, ' : ', 'gun', ' : ', 98.3091413974762)
+machine_gun_306.png
+(1, ' : ', 'gun', ' : ', 99.98292922973633)
+machine_gun_307.jpeg
+(1, ' : ', 'gun', ' : ', 99.99136924743652)
+machine_gun_308.jpeg
+(1, ' : ', 'gun', ' : ', 99.98840093612671)
+machine_gun_309.jpeg
+(1, ' : ', 'gun', ' : ', 99.97761845588684)
+machine_gun_310.jpeg
+(1, ' : ', 'gun', ' : ', 99.99738931655884)
+machine_gun_311.jpeg
+(1, ' : ', 'gun', ' : ', 99.98383522033691)
+machine_gun_312.jpeg : Not a weapon
+machine_gun_313.png
+(1, ' : ', 'gun', ' : ', 99.99980926513672)
+machine_gun_314.jpeg
+(1, ' : ', 'gun', ' : ', 99.990975856781)
+machine_gun_315.jpeg
+(1, ' : ', 'gun', ' : ', 99.9996542930603)
+machine_gun_316.jpeg
+(1, ' : ', 'gun', ' : ', 99.98281002044678)
+machine_gun_317.jpeg
+(1, ' : ', 'gun', ' : ', 99.99518394470215)
+machine_gun_318.jpeg
+(1, ' : ', 'gun', ' : ', 99.99926090240479)
+machine_gun_319.jpeg
+(1, ' : ', 'gun', ' : ', 99.92510676383972)
+machine_gun_320.jpeg
+(1, ' : ', 'gun', ' : ', 99.87360835075378)
+machine_gun_321.jpeg
+(1, ' : ', 'gun', ' : ', 99.99858140945435)
+machine_gun_322.jpeg
+(1, ' : ', 'gun', ' : ', 99.9998927116394)
+machine_gun_323.jpeg
+(1, ' : ', 'gun', ' : ', 99.9675989151001)
+machine_gun_324.jpeg
+(1, ' : ', 'gun', ' : ', 99.92634654045105)
+machine_gun_325.jpeg
+(1, ' : ', 'gun', ' : ', 99.98856782913208)
+machine_gun_326.jpeg
+(1, ' : ', 'gun', ' : ', 99.9954104423523)
+machine_gun_327.jpeg
+(1, ' : ', 'gun', ' : ', 99.90013241767883)
+machine_gun_328.jpeg
+(1, ' : ', 'gun', ' : ', 99.99990463256836)
+machine_gun_329.jpeg
+(1, ' : ', 'gun', ' : ', 99.94235038757324)
+machine_gun_330.jpeg
+(1, ' : ', 'gun', ' : ', 99.96275901794434)
+machine_gun_331.jpeg
+(1, ' : ', 'gun', ' : ', 99.99586343765259)
+machine_gun_332.jpeg
+(1, ' : ', 'gun', ' : ', 99.99392032623291)
+machine_gun_333.jpeg
+(1, ' : ', 'gun', ' : ', 99.85137581825256)
+machine_gun_334.jpeg
+(1, ' : ', 'gun', ' : ', 99.99871253967285)
+machine_gun_335.jpeg
+(1, ' : ', 'gun', ' : ', 99.97702240943909)
+machine_gun_336.jpeg
+(1, ' : ', 'gun', ' : ', 99.99992847442627)
+machine_gun_337.jpeg
+(1, ' : ', 'gun', ' : ', 99.99765157699585)
+machine_gun_338.jpeg
+(1, ' : ', 'gun', ' : ', 99.99961853027344)
+machine_gun_339.jpeg
+(1, ' : ', 'gun', ' : ', 99.99746084213257)
+machine_gun_340.png
+(1, ' : ', 'gun', ' : ', 99.81714487075806)
+machine_gun_341.jpeg
+(1, ' : ', 'gun', ' : ', 99.99755620956421)
+machine_gun_342.jpeg
+(1, ' : ', 'gun', ' : ', 99.97197985649109)
+machine_gun_343.jpeg
+(1, ' : ', 'gun', ' : ', 99.99719858169556)
+machine_gun_344.jpeg
+(1, ' : ', 'gun', ' : ', 99.99889135360718)
+machine_gun_345.jpeg
+(1, ' : ', 'gun', ' : ', 99.97891783714294)
+machine_gun_346.jpeg
+(1, ' : ', 'gun', ' : ', 99.99998807907104)
+machine_gun_347.jpeg
+(1, ' : ', 'gun', ' : ', 99.92464780807495)
+machine_gun_348.jpeg
+(1, ' : ', 'gun', ' : ', 99.99979734420776)
+machine_gun_349.jpeg
+(1, ' : ', 'gun', ' : ', 99.98724460601807)
+machine_gun_350.jpeg
+(1, ' : ', 'gun', ' : ', 99.56478476524353)
+machine_gun_351.jpeg
+(1, ' : ', 'gun', ' : ', 99.97431635856628)
+machine_gun_352.jpeg
+(1, ' : ', 'gun', ' : ', 99.99926090240479)
+machine_gun_353.jpeg
+(1, ' : ', 'gun', ' : ', 99.9922513961792)
+machine_gun_354.jpeg
+(1, ' : ', 'gun', ' : ', 99.98449087142944)
+machine_gun_355.jpeg
+(1, ' : ', 'gun', ' : ', 99.98965263366699)
+machine_gun_356.jpeg
+(1, ' : ', 'gun', ' : ', 99.99359846115112)
+machine_gun_357.jpeg
+(1, ' : ', 'gun', ' : ', 99.99178647994995)
+machine_gun_358.jpeg
+(1, ' : ', 'gun', ' : ', 99.99618530273438)
+machine_gun_359.jpeg
+(1, ' : ', 'gun', ' : ', 99.89290833473206)
+machine_gun_360.jpeg
+(1, ' : ', 'gun', ' : ', 99.98693466186523)
+machine_gun_361.jpeg
+(1, ' : ', 'gun', ' : ', 99.54173564910889)
+machine_gun_362.jpeg
+(1, ' : ', 'gun', ' : ', 99.99971389770508)
+machine_gun_363.jpeg
+(1, ' : ', 'gun', ' : ', 99.9948501586914)
+machine_gun_364.jpeg
+(1, ' : ', 'gun', ' : ', 99.99992847442627)
+machine_gun_365.jpeg
+(1, ' : ', 'gun', ' : ', 99.9727189540863)
+machine_gun_366.jpeg
+(1, ' : ', 'gun', ' : ', 99.35824275016785)
+machine_gun_367.jpeg
+(1, ' : ', 'gun', ' : ', 99.99985694885254)
+machine_gun_368.jpeg
+(1, ' : ', 'gun', ' : ', 99.98307228088379)
+machine_gun_369.jpeg
+(1, ' : ', 'gun', ' : ', 99.95556473731995)
+machine_gun_370.jpeg
+(1, ' : ', 'gun', ' : ', 99.7484803199768)
+machine_gun_371.jpeg
+(1, ' : ', 'gun', ' : ', 99.99979734420776)
+machine_gun_372.jpeg
+(1, ' : ', 'gun', ' : ', 99.99105930328369)
+machine_gun_373.png
+(1, ' : ', 'gun', ' : ', 99.99982118606567)
+machine_gun_374.jpeg
+(1, ' : ', 'gun', ' : ', 99.99501705169678)
+machine_gun_375.jpeg
+(1, ' : ', 'gun', ' : ', 99.99315738677979)
+machine_gun_376.jpeg
+(1, ' : ', 'gun', ' : ', 99.95341300964355)
+machine_gun_377.jpeg
+(1, ' : ', 'gun', ' : ', 99.98890161514282)
+machine_gun_378.png
+(1, ' : ', 'gun', ' : ', 99.99984502792358)
+machine_gun_379.jpeg
+(1, ' : ', 'gun', ' : ', 99.98784065246582)
+machine_gun_380.jpeg
+(1, ' : ', 'gun', ' : ', 99.97612833976746)
+machine_gun_381.jpeg
+(1, ' : ', 'gun', ' : ', 99.99728202819824)
+machine_gun_382.jpeg
+(1, ' : ', 'gun', ' : ', 99.98624324798584)
+machine_gun_383.png
+(1, ' : ', 'gun', ' : ', 99.94465708732605)
+machine_gun_384.jpeg
+(1, ' : ', 'gun', ' : ', 99.99836683273315)
+machine_gun_385.jpeg
+(1, ' : ', 'gun', ' : ', 98.3091413974762)
+machine_gun_386.png
+(1, ' : ', 'gun', ' : ', 99.98292922973633)
+machine_gun_387.jpeg
+(1, ' : ', 'gun', ' : ', 99.99136924743652)
+machine_gun_388.jpeg
+(1, ' : ', 'gun', ' : ', 99.98840093612671)
+machine_gun_389.jpeg
+(1, ' : ', 'gun', ' : ', 99.97761845588684)
+machine_gun_390.jpeg
+(1, ' : ', 'gun', ' : ', 99.99738931655884)
+machine_gun_391.jpeg
+(1, ' : ', 'gun', ' : ', 99.98383522033691)
+machine_gun_392.jpeg : Not a weapon
+machine_gun_393.png
+(1, ' : ', 'gun', ' : ', 99.99980926513672)
+machine_gun_394.jpeg
+(1, ' : ', 'gun', ' : ', 99.990975856781)
+machine_gun_395.jpeg
+(1, ' : ', 'gun', ' : ', 99.9996542930603)
+machine_gun_396.jpeg
+(1, ' : ', 'gun', ' : ', 99.98281002044678)
+machine_gun_397.jpeg
+(1, ' : ', 'gun', ' : ', 99.99518394470215)
+machine_gun_398.jpeg
+(1, ' : ', 'gun', ' : ', 99.99926090240479)
+machine_gun_399.jpeg
+(1, ' : ', 'gun', ' : ', 99.92510676383972)
+machine_gun_400.jpeg
+(1, ' : ', 'gun', ' : ', 99.87360835075378)
+people_41.jpeg : Not a weapon
+people_42.jpeg : Not a weapon
+people_43.jpeg : Not a weapon
+people_44.jpeg : Not a weapon
+people_45.jpeg : Not a weapon
+people_46.jpeg : Not a weapon
+people_47.jpeg : Not a weapon
+people_48.jpeg : Not a weapon
+people_49.jpeg : Not a weapon
+people_50.jpeg : Not a weapon
+photo_41.jpeg : Not a weapon
+photo_42.jpeg : Not a weapon
+photo_43.jpeg : Not a weapon
+photo_44.jpeg : Not a weapon
+photo_45.jpeg : Not a weapon
+photo_46.jpeg : Not a weapon
+photo_47.jpeg : Not a weapon
+photo_48.png : Not a weapon
+photo_49.jpeg : Not a weapon
+photo_50.jpeg
+(1, ' : ', 'rifle', ' : ', 94.79386806488037)
+pistol_301.png
+(1, ' : ', 'pistol', ' : ', 99.99966621398926)
+pistol_302.jpeg
+(1, ' : ', 'pistol', ' : ', 99.68762397766113)
+pistol_303.png
+(1, ' : ', 'pistol', ' : ', 99.99340772628784)
+pistol_304.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99895095825195)
+pistol_305.jpeg
+(1, ' : ', 'pistol', ' : ', 99.98462200164795)
+pistol_306.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99911785125732)
+pistol_307.jpeg
+(1, ' : ', 'pistol', ' : ', 99.90967512130737)
+pistol_308.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99125003814697)
+pistol_309.jpeg
+(1, ' : ', 'pistol', ' : ', 99.98773336410522)
+pistol_310.jpeg
+(1, ' : ', 'pistol', ' : ', 99.90536570549011)
+pistol_311.png
+(1, ' : ', 'pistol', ' : ', 99.95161294937134)
+pistol_312.jpeg
+(1, ' : ', 'pistol', ' : ', 99.83084201812744)
+pistol_313.jpeg
+(1, ' : ', 'pistol', ' : ', 99.90848302841187)
+pistol_314.jpeg
+(1, ' : ', 'pistol', ' : ', 99.94704127311707)
+pistol_315.jpeg
+(1, ' : ', 'pistol', ' : ', 99.9985933303833)
+pistol_316.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99161958694458)
+pistol_317.jpeg
+(1, ' : ', 'pistol', ' : ', 99.9810516834259)
+pistol_318.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99994039535522)
+pistol_319.jpeg
+(1, ' : ', 'pistol', ' : ', 99.97753500938416)
+pistol_320.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99823570251465)
+pistol_321.jpeg
+(1, ' : ', 'pistol', ' : ', 99.8944103717804)
+pistol_322.jpeg
+(1, ' : ', 'pistol', ' : ', 99.97517466545105)
+pistol_323.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99730587005615)
+pistol_324.jpeg
+(1, ' : ', 'pistol', ' : ', 99.98804330825806)
+pistol_325.png : Not a weapon
+pistol_326.jpeg
+(1, ' : ', 'pistol', ' : ', 99.930739402771)
+pistol_327.jpeg
+(1, ' : ', 'pistol', ' : ', 99.98819828033447)
+pistol_328.jpeg
+(1, ' : ', 'pistol', ' : ', 99.95543360710144)
+pistol_329.png
+(1, ' : ', 'pistol', ' : ', 99.9622106552124)
+pistol_330.jpeg
+(1, ' : ', 'pistol', ' : ', 99.98632669448853)
+pistol_331.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99960660934448)
+pistol_332.png
+(1, ' : ', 'pistol', ' : ', 99.98610019683838)
+pistol_333.jpeg
+(1, ' : ', 'pistol', ' : ', 99.94882345199585)
+pistol_334.jpeg
+(1, ' : ', 'pistol', ' : ', 99.93306398391724)
+pistol_335.jpeg
+(1, ' : ', 'pistol', ' : ', 99.93259906768799)
+pistol_336.jpeg
+(1, ' : ', 'pistol', ' : ', 99.9582588672638)
+pistol_337.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99910593032837)
+pistol_338.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99068975448608)
+pistol_339.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99617338180542)
+pistol_340.jpeg
+(1, ' : ', 'pistol', ' : ', 99.8522698879242)
+pistol_341.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99113082885742)
+pistol_342.jpeg
+(1, ' : ', 'pistol', ' : ', 99.66700673103333)
+pistol_343.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99384880065918)
+pistol_344.jpeg
+(1, ' : ', 'pistol', ' : ', 99.90461468696594)
+pistol_345.jpeg
+(1, ' : ', 'pistol', ' : ', 99.98605251312256)
+pistol_346.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99629259109497)
+pistol_347.jpeg
+(1, ' : ', 'pistol', ' : ', 99.98210072517395)
+pistol_348.jpeg
+(1, ' : ', 'pistol', ' : ', 99.87534284591675)
+pistol_349.jpeg
+(1, ' : ', 'pistol', ' : ', 99.94003772735596)
+pistol_350.jpeg
+(1, ' : ', 'pistol', ' : ', 99.9941349029541)
+pistol_351.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99839067459106)
+pistol_352.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99860525131226)
+pistol_353.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99974966049194)
+pistol_354.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99604225158691)
+pistol_355.jpeg
+(1, ' : ', 'pistol', ' : ', 99.95359182357788)
+pistol_356.jpeg
+(1, ' : ', 'pistol', ' : ', 99.9923586845398)
+pistol_357.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99901056289673)
+pistol_358.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99432563781738)
+pistol_359.jpeg
+(1, ' : ', 'pistol', ' : ', 99.91928935050964)
+pistol_360.jpeg
+(1, ' : ', 'pistol', ' : ', 99.9915361404419)
+pistol_361.jpeg
+(1, ' : ', 'pistol', ' : ', 99.9908447265625)
+pistol_362.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99769926071167)
+pistol_363.jpeg
+(1, ' : ', 'pistol', ' : ', 99.98655319213867)
+pistol_364.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99295473098755)
+pistol_365.jpeg
+(1, ' : ', 'pistol', ' : ', 99.97757077217102)
+pistol_366.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99396800994873)
+pistol_367.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99704360961914)
+pistol_368.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99736547470093)
+pistol_369.jpeg
+(1, ' : ', 'pistol', ' : ', 99.9901294708252)
+pistol_370.jpeg
+(1, ' : ', 'pistol', ' : ', 99.93358254432678)
+pistol_371.jpeg
+(1, ' : ', 'pistol', ' : ', 99.98537302017212)
+pistol_372.png
+(1, ' : ', 'pistol', ' : ', 99.99966621398926)
+pistol_373.jpeg
+(1, ' : ', 'pistol', ' : ', 99.68762397766113)
+pistol_374.png
+(1, ' : ', 'pistol', ' : ', 99.99340772628784)
+pistol_375.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99895095825195)
+pistol_376.jpeg
+(1, ' : ', 'pistol', ' : ', 99.98462200164795)
+pistol_377.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99911785125732)
+pistol_378.jpeg
+(1, ' : ', 'pistol', ' : ', 99.90967512130737)
+pistol_379.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99125003814697)
+pistol_380.jpeg
+(1, ' : ', 'pistol', ' : ', 99.98773336410522)
+pistol_381.jpeg
+(1, ' : ', 'pistol', ' : ', 99.90536570549011)
+pistol_382.png
+(1, ' : ', 'pistol', ' : ', 99.95161294937134)
+pistol_383.jpeg
+(1, ' : ', 'pistol', ' : ', 99.83084201812744)
+pistol_384.jpeg
+(1, ' : ', 'pistol', ' : ', 99.90848302841187)
+pistol_385.jpeg
+(1, ' : ', 'pistol', ' : ', 99.94704127311707)
+pistol_386.jpeg
+(1, ' : ', 'pistol', ' : ', 99.9985933303833)
+pistol_387.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99161958694458)
+pistol_388.jpeg
+(1, ' : ', 'pistol', ' : ', 99.9810516834259)
+pistol_389.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99994039535522)
+pistol_390.jpeg
+(1, ' : ', 'pistol', ' : ', 99.97753500938416)
+pistol_391.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99823570251465)
+pistol_392.jpeg
+(1, ' : ', 'pistol', ' : ', 99.8944103717804)
+pistol_393.jpeg
+(1, ' : ', 'pistol', ' : ', 99.97517466545105)
+pistol_394.jpeg
+(1, ' : ', 'pistol', ' : ', 99.99730587005615)
+pistol_395.jpeg
+(1, ' : ', 'pistol', ' : ', 99.98804330825806)
+pistol_396.png : Not a weapon
+pistol_397.jpeg
+(1, ' : ', 'pistol', ' : ', 99.930739402771)
+pistol_398.jpeg
+(1, ' : ', 'pistol', ' : ', 99.98819828033447)
+pistol_399.jpeg
+(1, ' : ', 'pistol', ' : ', 99.95543360710144)
+pistol_400.png
+(1, ' : ', 'pistol', ' : ', 99.9622106552124)
+plants_41.jpeg : Not a weapon
+plants_42.jpeg : Not a weapon
+plants_43.jpeg : Not a weapon
+plants_44.jpeg : Not a weapon
+plants_45.jpeg : Not a weapon
+plants_46.jpeg : Not a weapon
+plants_47.jpeg : Not a weapon
+plants_48.jpeg : Not a weapon
+plants_49.jpeg : Not a weapon
+plants_50.jpeg : Not a weapon
+revolver_301.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99197721481323)
+revolver_302.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99896287918091)
+revolver_303.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99592304229736)
+revolver_304.png
+(1, ' : ', 'revolver', ' : ', 99.99997615814209)
+revolver_305.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99970197677612)
+revolver_306.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99864101409912)
+revolver_307.jpeg
+(1, ' : ', 'revolver', ' : ', 99.98200535774231)
+revolver_308.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99384880065918)
+revolver_309.jpeg
+(1, ' : ', 'revolver', ' : ', 99.9994158744812)
+revolver_310.jpeg
+(1, ' : ', 'revolver', ' : ', 99.9948263168335)
+revolver_311.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99979734420776)
+revolver_312.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99998807907104)
+revolver_313.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99771118164062)
+revolver_314.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99945163726807)
+revolver_315.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99767541885376)
+revolver_316.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99774694442749)
+revolver_317.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99727010726929)
+revolver_318.png
+(1, ' : ', 'revolver', ' : ', 99.99222755432129)
+revolver_319.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99880790710449)
+revolver_320.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99717473983765)
+revolver_321.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99983310699463)
+revolver_322.png
+(1, ' : ', 'revolver', ' : ', 99.98212456703186)
+revolver_323.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99521970748901)
+revolver_324.png
+(1, ' : ', 'revolver', ' : ', 99.77649450302124)
+revolver_325.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99879598617554)
+revolver_326.jpeg
+(1, ' : ', 'revolver', ' : ', 99.98806715011597)
+revolver_327.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99465942382812)
+revolver_328.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99914169311523)
+revolver_329.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99897480010986)
+revolver_330.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99994039535522)
+revolver_331.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99732971191406)
+revolver_332.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99542236328125)
+revolver_333.png
+(1, ' : ', 'revolver', ' : ', 99.99141693115234)
+revolver_334.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99939203262329)
+revolver_335.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99957084655762)
+revolver_336.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99438524246216)
+revolver_337.jpeg
+(1, ' : ', 'revolver', ' : ', 99.56501126289368)
+revolver_338.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99040365219116)
+revolver_339.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99080896377563)
+revolver_340.jpeg
+(1, ' : ', 'revolver', ' : ', 99.9996542930603)
+revolver_341.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99853372573853)
+revolver_342.jpeg
+(1, ' : ', 'revolver', ' : ', 99.9974012374878)
+revolver_343.jpeg
+(1, ' : ', 'revolver', ' : ', 99.97172951698303)
+revolver_344.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99074935913086)
+revolver_345.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99938011169434)
+revolver_346.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99011754989624)
+revolver_347.jpeg
+(1, ' : ', 'revolver', ' : ', 99.98832941055298)
+revolver_348.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99552965164185)
+revolver_349.jpeg
+(1, ' : ', 'revolver', ' : ', 99.9377429485321)
+revolver_350.jpeg
+(1, ' : ', 'revolver', ' : ', 99.98632669448853)
+revolver_351.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99527931213379)
+revolver_352.jpeg
+(1, ' : ', 'revolver', ' : ', 99.98927116394043)
+revolver_353.png
+(1, ' : ', 'revolver', ' : ', 99.99939203262329)
+revolver_354.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99425411224365)
+revolver_355.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99983310699463)
+revolver_356.jpeg
+(1, ' : ', 'revolver', ' : ', 99.78945851325989)
+revolver_357.jpeg
+(1, ' : ', 'revolver', ' : ', 100.0)
+revolver_358.jpeg
+(1, ' : ', 'revolver', ' : ', 99.97121691703796)
+revolver_359.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99539852142334)
+revolver_360.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99580383300781)
+revolver_361.jpeg
+(1, ' : ', 'revolver', ' : ', 100.0)
+revolver_362.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99980926513672)
+revolver_363.jpeg
+(1, ' : ', 'revolver', ' : ', 99.98680353164673)
+revolver_364.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99924898147583)
+revolver_365.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99940395355225)
+revolver_366.jpeg
+(1, ' : ', 'revolver', ' : ', 99.51242804527283)
+revolver_367.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99202489852905)
+revolver_368.jpeg
+(1, ' : ', 'revolver', ' : ', 99.97507929801941)
+revolver_369.jpeg
+(1, ' : ', 'revolver', ' : ', 99.93785619735718)
+revolver_370.jpeg
+(1, ' : ', 'revolver', ' : ', 99.98883008956909)
+revolver_371.jpeg
+(1, ' : ', 'revolver', ' : ', 99.98767375946045)
+revolver_372.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99947547912598)
+revolver_373.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99170303344727)
+revolver_374.jpeg : Not a weapon
+revolver_375.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99433755874634)
+revolver_376.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99743700027466)
+revolver_377.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99994039535522)
+revolver_378.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99197721481323)
+revolver_379.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99896287918091)
+revolver_380.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99592304229736)
+revolver_381.png
+(1, ' : ', 'revolver', ' : ', 99.99997615814209)
+revolver_382.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99970197677612)
+revolver_383.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99864101409912)
+revolver_384.jpeg
+(1, ' : ', 'revolver', ' : ', 99.98200535774231)
+revolver_385.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99384880065918)
+revolver_386.jpeg
+(1, ' : ', 'revolver', ' : ', 99.9994158744812)
+revolver_387.jpeg
+(1, ' : ', 'revolver', ' : ', 99.9948263168335)
+revolver_388.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99979734420776)
+revolver_389.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99998807907104)
+revolver_390.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99771118164062)
+revolver_391.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99945163726807)
+revolver_392.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99767541885376)
+revolver_393.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99774694442749)
+revolver_394.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99727010726929)
+revolver_395.png
+(1, ' : ', 'revolver', ' : ', 99.99222755432129)
+revolver_396.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99880790710449)
+revolver_397.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99717473983765)
+revolver_398.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99983310699463)
+revolver_399.png
+(1, ' : ', 'revolver', ' : ', 99.98212456703186)
+revolver_400.jpeg
+(1, ' : ', 'revolver', ' : ', 99.99521970748901)
+riffle_301.png
+(1, ' : ', 'rifle', ' : ', 99.8364508152008)
+riffle_302.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99315738677979)
+riffle_303.jpeg
+(1, ' : ', 'rifle', ' : ', 99.97943043708801)
+riffle_304.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98605251312256)
+riffle_305.jpeg
+(1, ' : ', 'rifle', ' : ', 99.8960018157959)
+riffle_306.png
+(1, ' : ', 'rifle', ' : ', 99.99659061431885)
+riffle_307.jpeg
+(1, ' : ', 'rifle', ' : ', 99.79508519172668)
+riffle_308.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99721050262451)
+riffle_309.png
+(1, ' : ', 'rifle', ' : ', 99.79051351547241)
+riffle_310.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99550580978394)
+riffle_311.png
+(1, ' : ', 'rifle', ' : ', 99.98877048492432)
+riffle_312.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99122619628906)
+riffle_313.jpeg
+(1, ' : ', 'rifle', ' : ', 99.96069073677063)
+riffle_314.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99654293060303)
+riffle_315.png
+(1, ' : ', 'rifle', ' : ', 99.99990463256836)
+riffle_316.jpeg
+(1, ' : ', 'rifle', ' : ', 99.97050166130066)
+riffle_317.jpeg
+(1, ' : ', 'rifle', ' : ', 99.96500015258789)
+riffle_318.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99741315841675)
+riffle_319.png
+(1, ' : ', 'rifle', ' : ', 99.96932744979858)
+riffle_320.jpeg
+(1, ' : ', 'rifle', ' : ', 99.94686245918274)
+riffle_321.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99697208404541)
+riffle_322.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99808073043823)
+riffle_323.png
+(1, ' : ', 'rifle', ' : ', 99.99852180480957)
+riffle_324.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99052286148071)
+riffle_325.jpeg
+(1, ' : ', 'rifle', ' : ', 99.94595646858215)
+riffle_326.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9997615814209)
+riffle_327.jpeg
+(1, ' : ', 'rifle', ' : ', 99.93496537208557)
+riffle_328.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99964237213135)
+riffle_329.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99635219573975)
+riffle_330.png
+(1, ' : ', 'rifle', ' : ', 99.99881982803345)
+riffle_331.jpeg
+(1, ' : ', 'rifle', ' : ', 99.83569979667664)
+riffle_332.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9699354171753)
+riffle_333.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9985933303833)
+riffle_334.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98823404312134)
+riffle_335.png
+(1, ' : ', 'rifle', ' : ', 99.9995231628418)
+riffle_336.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9150037765503)
+riffle_337.jpeg
+(1, ' : ', 'rifle', ' : ', 99.97875094413757)
+riffle_338.png
+(1, ' : ', 'rifle', ' : ', 99.98182654380798)
+riffle_339.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99414682388306)
+riffle_340.jpeg
+(1, ' : ', 'rifle', ' : ', 99.86453652381897)
+riffle_341.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99836683273315)
+riffle_342.png
+(1, ' : ', 'rifle', ' : ', 99.99270439147949)
+riffle_343.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99403953552246)
+riffle_344.jpeg
+(1, ' : ', 'rifle', ' : ', 99.87873435020447)
+riffle_346.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99583959579468)
+riffle_347.jpeg
+(1, ' : ', 'rifle', ' : ', 99.97188448905945)
+riffle_348.jpeg
+(1, ' : ', 'rifle', ' : ', 99.95679259300232)
+riffle_349.png
+(1, ' : ', 'rifle', ' : ', 99.98593330383301)
+riffle_350.jpeg
+(1, ' : ', 'rifle', ' : ', 99.95213747024536)
+riffle_351.jpeg
+(1, ' : ', 'rifle', ' : ', 99.84242916107178)
+riffle_352.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99144077301025)
+riffle_353.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9935507774353)
+riffle_354.jpeg
+(1, ' : ', 'rifle', ' : ', 99.90934133529663)
+riffle_355.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98252987861633)
+riffle_356.png
+(1, ' : ', 'rifle', ' : ', 99.97205138206482)
+riffle_357.png
+(1, ' : ', 'rifle', ' : ', 99.95700716972351)
+riffle_358.jpeg
+(1, ' : ', 'rifle', ' : ', 99.91187453269958)
+riffle_359.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99922513961792)
+riffle_360.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99445676803589)
+riffle_361.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99724626541138)
+riffle_362.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98335838317871)
+riffle_363.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99797344207764)
+riffle_364.png
+(1, ' : ', 'rifle', ' : ', 99.86481070518494)
+riffle_365.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98158812522888)
+riffle_366.png
+(1, ' : ', 'rifle', ' : ', 99.93478655815125)
+riffle_367.png
+(1, ' : ', 'rifle', ' : ', 99.99661445617676)
+riffle_368.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99477863311768)
+riffle_369.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99699592590332)
+riffle_370.jpeg
+(1, ' : ', 'rifle', ' : ', 99.998939037323)
+riffle_371.png
+(1, ' : ', 'rifle', ' : ', 99.93032217025757)
+riffle_372.jpeg
+(1, ' : ', 'rifle', ' : ', 99.96962547302246)
+riffle_373.png
+(1, ' : ', 'rifle', ' : ', 99.94640946388245)
+riffle_374.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99858140945435)
+riffle_375.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98817443847656)
+riffle_376.png
+(1, ' : ', 'rifle', ' : ', 99.99345541000366)
+riffle_377.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9840259552002)
+riffle_378.png
+(1, ' : ', 'rifle', ' : ', 99.99974966049194)
+riffle_379.png
+(1, ' : ', 'rifle', ' : ', 99.99631643295288)
+riffle_380.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99997615814209)
+riffle_381.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9943494796753)
+riffle_382.png
+(1, ' : ', 'rifle', ' : ', 99.8364508152008)
+riffle_383.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99315738677979)
+riffle_384.jpeg
+(1, ' : ', 'rifle', ' : ', 99.97943043708801)
+riffle_385.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98605251312256)
+riffle_386.jpeg
+(1, ' : ', 'rifle', ' : ', 99.8960018157959)
+riffle_387.png
+(1, ' : ', 'rifle', ' : ', 99.99659061431885)
+riffle_388.jpeg
+(1, ' : ', 'rifle', ' : ', 99.79508519172668)
+riffle_389.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99721050262451)
+riffle_390.png
+(1, ' : ', 'rifle', ' : ', 99.79051351547241)
+riffle_391.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99550580978394)
+riffle_392.png
+(1, ' : ', 'rifle', ' : ', 99.98877048492432)
+riffle_393.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99122619628906)
+riffle_394.jpeg
+(1, ' : ', 'rifle', ' : ', 99.96069073677063)
+riffle_395.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99654293060303)
+riffle_396.png
+(1, ' : ', 'rifle', ' : ', 99.99990463256836)
+riffle_397.jpeg
+(1, ' : ', 'rifle', ' : ', 99.97050166130066)
+riffle_398.jpeg
+(1, ' : ', 'rifle', ' : ', 99.96500015258789)
+riffle_399.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99741315841675)
+riffle_400.png
+(1, ' : ', 'rifle', ' : ', 99.96932744979858)
+rifle_301.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99996423721313)
+rifle_302.jpeg
+(1, ' : ', 'rifle', ' : ', 99.97727274894714)
+rifle_303.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99940395355225)
+rifle_304.jpeg
+(1, ' : ', 'rifle', ' : ', 99.94968175888062)
+rifle_305.jpeg
+(1, ' : ', 'rifle', ' : ', 99.96734857559204)
+rifle_306.jpeg
+(1, ' : ', 'rifle', ' : ', 99.94994401931763)
+rifle_307.png
+(1, ' : ', 'rifle', ' : ', 99.9994158744812)
+rifle_308.png
+(1, ' : ', 'rifle', ' : ', 99.99442100524902)
+rifle_309.jpeg
+(1, ' : ', 'rifle', ' : ', 99.93219375610352)
+rifle_310.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99608993530273)
+rifle_311.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99880790710449)
+rifle_312.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99926090240479)
+rifle_313.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99743700027466)
+rifle_314.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98880624771118)
+rifle_315.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98050332069397)
+rifle_316.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98167157173157)
+rifle_317.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99157190322876)
+rifle_318.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99622106552124)
+rifle_319.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9998688697815)
+rifle_320.jpeg
+(1, ' : ', 'rifle', ' : ', 99.75062012672424)
+rifle_321.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9991774559021)
+rifle_322.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99996423721313)
+rifle_323.png
+(1, ' : ', 'rifle', ' : ', 99.99912977218628)
+rifle_324.png
+(1, ' : ', 'rifle', ' : ', 99.99864101409912)
+rifle_325.png
+(1, ' : ', 'rifle', ' : ', 99.97931122779846)
+rifle_326.jpeg
+(1, ' : ', 'rifle', ' : ', 99.96800422668457)
+rifle_327.jpeg
+(1, ' : ', 'rifle', ' : ', 99.96591806411743)
+rifle_328.jpeg
+(1, ' : ', 'rifle', ' : ', 99.97156262397766)
+rifle_329.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9961256980896)
+rifle_330.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99974966049194)
+rifle_331.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99722242355347)
+rifle_332.jpeg
+(1, ' : ', 'rifle', ' : ', 99.93201494216919)
+rifle_333.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98828172683716)
+rifle_334.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99988079071045)
+rifle_335.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9953031539917)
+rifle_336.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99951124191284)
+rifle_337.png
+(1, ' : ', 'rifle', ' : ', 99.96039271354675)
+rifle_338.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99499320983887)
+rifle_339.jpeg
+(1, ' : ', 'rifle', ' : ', 99.87596273422241)
+rifle_340.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99995231628418)
+rifle_341.jpeg
+(1, ' : ', 'rifle', ' : ', 99.97054934501648)
+rifle_342.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99899864196777)
+rifle_343.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99752044677734)
+rifle_344.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9790370464325)
+rifle_345.png
+(1, ' : ', 'rifle', ' : ', 99.99983310699463)
+rifle_346.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99914169311523)
+rifle_347.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99992847442627)
+rifle_348.jpeg
+(1, ' : ', 'rifle', ' : ', 99.93355870246887)
+rifle_349.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98836517333984)
+rifle_350.jpeg
+(1, ' : ', 'rifle', ' : ', 99.97394680976868)
+rifle_351.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98098015785217)
+rifle_352.jpeg
+(1, ' : ', 'rifle', ' : ', 99.91707801818848)
+rifle_353.png
+(1, ' : ', 'rifle', ' : ', 99.99841451644897)
+rifle_354.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99032020568848)
+rifle_355.jpeg
+(1, ' : ', 'rifle', ' : ', 99.81801509857178)
+rifle_356.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9982476234436)
+rifle_357.jpeg
+(1, ' : ', 'rifle', ' : ', 99.97785687446594)
+rifle_358.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98492002487183)
+rifle_359.png
+(1, ' : ', 'rifle', ' : ', 99.99173879623413)
+rifle_360.png
+(1, ' : ', 'rifle', ' : ', 99.99978542327881)
+rifle_361.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99362230300903)
+rifle_362.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99916553497314)
+rifle_363.jpeg
+(1, ' : ', 'rifle', ' : ', 99.78637099266052)
+rifle_364.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99744892120361)
+rifle_365.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9944806098938)
+rifle_366.jpeg
+(1, ' : ', 'rifle', ' : ', 99.97742772102356)
+rifle_367.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99890327453613)
+rifle_368.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9974012374878)
+rifle_369.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9981164932251)
+rifle_370.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99936819076538)
+rifle_371.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99480247497559)
+rifle_372.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99947547912598)
+rifle_373.png
+(1, ' : ', 'rifle', ' : ', 99.97530579566956)
+rifle_374.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99581575393677)
+rifle_375.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99996423721313)
+rifle_376.jpeg
+(1, ' : ', 'rifle', ' : ', 99.97727274894714)
+rifle_377.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99940395355225)
+rifle_378.jpeg
+(1, ' : ', 'rifle', ' : ', 99.94968175888062)
+rifle_379.jpeg
+(1, ' : ', 'rifle', ' : ', 99.96734857559204)
+rifle_380.jpeg
+(1, ' : ', 'rifle', ' : ', 99.94994401931763)
+rifle_381.png
+(1, ' : ', 'rifle', ' : ', 99.9994158744812)
+rifle_382.png
+(1, ' : ', 'rifle', ' : ', 99.99442100524902)
+rifle_383.jpeg
+(1, ' : ', 'rifle', ' : ', 99.93219375610352)
+rifle_384.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99608993530273)
+rifle_385.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99880790710449)
+rifle_386.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99926090240479)
+rifle_387.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99743700027466)
+rifle_388.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98880624771118)
+rifle_389.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98050332069397)
+rifle_390.jpeg
+(1, ' : ', 'rifle', ' : ', 99.98167157173157)
+rifle_391.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99157190322876)
+rifle_392.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99622106552124)
+rifle_393.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9998688697815)
+rifle_394.jpeg
+(1, ' : ', 'rifle', ' : ', 99.75062012672424)
+rifle_395.jpeg
+(1, ' : ', 'rifle', ' : ', 99.9991774559021)
+rifle_396.jpeg
+(1, ' : ', 'rifle', ' : ', 99.99996423721313)
+rifle_397.png
+(1, ' : ', 'rifle', ' : ', 99.99912977218628)
+rifle_398.png
+(1, ' : ', 'rifle', ' : ', 99.99864101409912)
+rifle_399.png
+(1, ' : ', 'rifle', ' : ', 99.97931122779846)
+rifle_400.jpeg
+(1, ' : ', 'rifle', ' : ', 99.96800422668457)
+rocket_launcher_301.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99905824661255)
+rocket_launcher_302.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99637603759766)
+rocket_launcher_303.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99995231628418)
+rocket_launcher_304.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.96590614318848)
+rocket_launcher_305.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.98831748962402)
+rocket_launcher_306.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.98633861541748)
+rocket_launcher_307.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.95396137237549)
+rocket_launcher_308.png
+(1, ' : ', 'rocket_launcher', ' : ', 100.0)
+rocket_launcher_309.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.9477207660675)
+rocket_launcher_310.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99874830245972)
+rocket_launcher_311.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 100.0)
+rocket_launcher_312.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.98639822006226)
+rocket_launcher_313.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99983310699463)
+rocket_launcher_314.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99977350234985)
+rocket_launcher_315.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99998807907104)
+rocket_launcher_316.png
+(1, ' : ', 'rocket_launcher', ' : ', 100.0)
+rocket_launcher_317.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99783039093018)
+rocket_launcher_318.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99998807907104)
+rocket_launcher_319.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99923706054688)
+rocket_launcher_320.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99997615814209)
+rocket_launcher_321.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 100.0)
+rocket_launcher_322.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99997615814209)
+rocket_launcher_323.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.94506239891052)
+rocket_launcher_324.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.9969482421875)
+rocket_launcher_325.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.97859597206116)
+rocket_launcher_326.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.9966025352478)
+rocket_launcher_327.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.9984860420227)
+rocket_launcher_328.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.9987244606018)
+rocket_launcher_329.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.89581108093262)
+rocket_launcher_330.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99909400939941)
+rocket_launcher_331.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99507665634155)
+rocket_launcher_332.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.98515844345093)
+rocket_launcher_333.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.98288154602051)
+rocket_launcher_334.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99926090240479)
+rocket_launcher_335.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99951124191284)
+rocket_launcher_336.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99797344207764)
+rocket_launcher_337.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99823570251465)
+rocket_launcher_338.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.9992847442627)
+rocket_launcher_339.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.98064637184143)
+rocket_launcher_340.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99996423721313)
+rocket_launcher_341.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.97518658638)
+rocket_launcher_342.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.97623562812805)
+rocket_launcher_343.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.96213912963867)
+rocket_launcher_344.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.9882459640503)
+rocket_launcher_345.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99853372573853)
+rocket_launcher_346.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.98376369476318)
+rocket_launcher_347.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99951124191284)
+rocket_launcher_348.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.97709393501282)
+rocket_launcher_349.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99850988388062)
+rocket_launcher_350.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.98321533203125)
+rocket_launcher_351.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99895095825195)
+rocket_launcher_352.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99750852584839)
+rocket_launcher_353.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99977350234985)
+rocket_launcher_354.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99555349349976)
+rocket_launcher_355.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99483823776245)
+rocket_launcher_356.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.9984860420227)
+rocket_launcher_357.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.95619654655457)
+rocket_launcher_358.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99971389770508)
+rocket_launcher_359.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99788999557495)
+rocket_launcher_360.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99980926513672)
+rocket_launcher_361.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.85925555229187)
+rocket_launcher_362.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.85150694847107)
+rocket_launcher_363.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99996423721313)
+rocket_launcher_364.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.97005462646484)
+rocket_launcher_365.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.9645471572876)
+rocket_launcher_366.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.64932799339294)
+rocket_launcher_367.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.98156428337097)
+rocket_launcher_368.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.98723268508911)
+rocket_launcher_369.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99802112579346)
+rocket_launcher_370.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.98446702957153)
+rocket_launcher_371.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99973773956299)
+rocket_launcher_372.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 100.0)
+rocket_launcher_373.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99947547912598)
+rocket_launcher_374.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.98568296432495)
+rocket_launcher_375.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99561309814453)
+rocket_launcher_376.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.95962977409363)
+rocket_launcher_377.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99990463256836)
+rocket_launcher_378.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99905824661255)
+rocket_launcher_379.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99637603759766)
+rocket_launcher_380.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99995231628418)
+rocket_launcher_381.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.96590614318848)
+rocket_launcher_382.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.98831748962402)
+rocket_launcher_383.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.98633861541748)
+rocket_launcher_384.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.95396137237549)
+rocket_launcher_385.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.9477207660675)
+rocket_launcher_386.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99874830245972)
+rocket_launcher_387.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 100.0)
+rocket_launcher_388.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.98639822006226)
+rocket_launcher_389.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99983310699463)
+rocket_launcher_390.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99977350234985)
+rocket_launcher_391.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99998807907104)
+rocket_launcher_392.png
+(1, ' : ', 'rocket_launcher', ' : ', 100.0)
+rocket_launcher_393.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99783039093018)
+rocket_launcher_394.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99998807907104)
+rocket_launcher_395.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99923706054688)
+rocket_launcher_396.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.99997615814209)
+rocket_launcher_397.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 100.0)
+rocket_launcher_398.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.99997615814209)
+rocket_launcher_399.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 99.94506239891052)
+rocket_launcher_400.png
+(1, ' : ', 'rocket_launcher', ' : ', 99.9969482421875)
+shotgun_301.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99921321868896)
+shotgun_302.png
+(1, ' : ', 'shotgun', ' : ', 99.99762773513794)
+shotgun_303.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99878406524658)
+shotgun_304.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.97648596763611)
+shotgun_305.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.985671043396)
+shotgun_306.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.9907374382019)
+shotgun_307.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.25544857978821)
+shotgun_308.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99951124191284)
+shotgun_309.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99992847442627)
+shotgun_310.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99977350234985)
+shotgun_311.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.9921441078186)
+shotgun_312.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.97836947441101)
+shotgun_313.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99984502792358)
+shotgun_314.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99982118606567)
+shotgun_315.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.95055198669434)
+shotgun_316.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99589920043945)
+shotgun_317.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99728202819824)
+shotgun_318.jpeg
+(1, ' : ', 'shotgun', ' : ', 98.9384114742279)
+shotgun_319.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99523162841797)
+shotgun_320.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99804496765137)
+shotgun_321.png
+(1, ' : ', 'shotgun', ' : ', 99.96973276138306)
+shotgun_322.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.94701743125916)
+shotgun_323.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99734163284302)
+shotgun_325.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99794960021973)
+shotgun_326.png
+(1, ' : ', 'shotgun', ' : ', 99.90481734275818)
+shotgun_327.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99678134918213)
+shotgun_328.png
+(1, ' : ', 'shotgun', ' : ', 99.99139308929443)
+shotgun_329.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99980926513672)
+shotgun_330.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99754428863525)
+shotgun_331.png
+(1, ' : ', 'shotgun', ' : ', 99.82908368110657)
+shotgun_332.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99910593032837)
+shotgun_333.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.94148015975952)
+shotgun_334.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99990463256836)
+shotgun_335.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99977350234985)
+shotgun_336.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.92576241493225)
+shotgun_337.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99958276748657)
+shotgun_338.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99035596847534)
+shotgun_339.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99988079071045)
+shotgun_340.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99983310699463)
+shotgun_341.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99412298202515)
+shotgun_342.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99114274978638)
+shotgun_343.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.70292448997498)
+shotgun_344.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99945163726807)
+shotgun_345.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.9890923500061)
+shotgun_346.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.9967098236084)
+shotgun_347.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.92387294769287)
+shotgun_348.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.9879240989685)
+shotgun_349.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99985694885254)
+shotgun_350.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99834299087524)
+shotgun_351.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.95262622833252)
+shotgun_352.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.34896230697632)
+shotgun_353.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99983310699463)
+shotgun_354.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99721050262451)
+shotgun_355.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.89200830459595)
+shotgun_356.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99780654907227)
+shotgun_357.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.94237422943115)
+shotgun_358.png
+(1, ' : ', 'shotgun', ' : ', 99.99158382415771)
+shotgun_359.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99959468841553)
+shotgun_360.png
+(1, ' : ', 'shotgun', ' : ', 99.55869913101196)
+shotgun_361.png
+(1, ' : ', 'shotgun', ' : ', 99.99860525131226)
+shotgun_362.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99628067016602)
+shotgun_363.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.95489716529846)
+shotgun_364.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99983310699463)
+shotgun_365.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99997615814209)
+shotgun_366.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.9790370464325)
+shotgun_367.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99051094055176)
+shotgun_368.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99960660934448)
+shotgun_369.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99712705612183)
+shotgun_370.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99314546585083)
+shotgun_371.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99752044677734)
+shotgun_372.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99992847442627)
+shotgun_373.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.98767375946045)
+shotgun_374.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.9173104763031)
+shotgun_375.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99669790267944)
+shotgun_376.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99921321868896)
+shotgun_377.png
+(1, ' : ', 'shotgun', ' : ', 99.99762773513794)
+shotgun_378.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99878406524658)
+shotgun_379.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.97648596763611)
+shotgun_380.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.985671043396)
+shotgun_381.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.9907374382019)
+shotgun_382.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.25544857978821)
+shotgun_383.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99951124191284)
+shotgun_384.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99992847442627)
+shotgun_385.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99977350234985)
+shotgun_386.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.9921441078186)
+shotgun_387.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.97836947441101)
+shotgun_388.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99984502792358)
+shotgun_389.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99982118606567)
+shotgun_390.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.95055198669434)
+shotgun_391.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99589920043945)
+shotgun_392.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99728202819824)
+shotgun_393.jpeg
+(1, ' : ', 'shotgun', ' : ', 98.9384114742279)
+shotgun_394.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99523162841797)
+shotgun_395.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99804496765137)
+shotgun_396.png
+(1, ' : ', 'shotgun', ' : ', 99.96973276138306)
+shotgun_397.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.94701743125916)
+shotgun_398.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99734163284302)
+shotgun_400.jpeg
+(1, ' : ', 'shotgun', ' : ', 99.99794960021973)
+table_41.jpeg : Not a weapon
+table_42.jpeg : Not a weapon
+table_43.jpeg : Not a weapon
+table_44.jpeg
+(1, ' : ', 'rocket_launcher', ' : ', 94.56194639205933)
+table_45.png : Not a weapon
+table_46.jpeg : Not a weapon
+table_47.jpeg : Not a weapon
+table_48.jpeg : Not a weapon
+table_49.jpeg : Not a weapon
+table_50.jpeg : Not a weapon
+television_41.jpeg
+(1, ' : ', 'uzi', ' : ', 99.8205304145813)
+television_42.jpeg : Not a weapon
+television_43.jpeg : Not a weapon
+television_44.jpeg : Not a weapon
+television_45.jpeg : Not a weapon
+television_46.jpeg : Not a weapon
+television_47.jpeg : Not a weapon
+television_48.jpeg : Not a weapon
+television_49.jpeg : Not a weapon
+television_50.jpeg : Not a weapon
+umbrella_41.jpeg : Not a weapon
+umbrella_42.jpeg : Not a weapon
+umbrella_43.jpeg
+(1, ' : ', 'gun', ' : ', 91.88811779022217)
+umbrella_44.jpeg : Not a weapon
+umbrella_45.png : Not a weapon
+umbrella_46.jpeg : Not a weapon
+umbrella_47.jpeg : Not a weapon
+umbrella_48.jpeg : Not a weapon
+umbrella_49.jpeg : Not a weapon
+umbrella_50.png : Not a weapon
+uzi_301.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99275207519531)
+uzi_302.jpeg
+(1, ' : ', 'uzi', ' : ', 99.98855590820312)
+uzi_303.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99175071716309)
+uzi_304.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99955892562866)
+uzi_305.png
+(1, ' : ', 'uzi', ' : ', 99.97870326042175)
+uzi_306.jpeg
+(1, ' : ', 'uzi', ' : ', 99.97267127037048)
+uzi_307.jpeg
+(1, ' : ', 'uzi', ' : ', 99.93423819541931)
+uzi_308.jpeg
+(1, ' : ', 'uzi', ' : ', 99.98488426208496)
+uzi_309.jpeg
+(1, ' : ', 'uzi', ' : ', 99.9886155128479)
+uzi_310.jpeg
+(1, ' : ', 'gun', ' : ', 81.99791312217712)
+uzi_311.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99996423721313)
+uzi_312.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99717473983765)
+uzi_313.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99845027923584)
+uzi_314.jpeg
+(1, ' : ', 'uzi', ' : ', 99.98533725738525)
+uzi_315.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99760389328003)
+uzi_316.jpeg
+(1, ' : ', 'uzi', ' : ', 99.9129593372345)
+uzi_317.png
+(1, ' : ', 'uzi', ' : ', 99.98912811279297)
+uzi_318.jpeg
+(1, ' : ', 'uzi', ' : ', 99.9954342842102)
+uzi_319.jpeg
+(1, ' : ', 'uzi', ' : ', 99.95997548103333)
+uzi_320.png
+(1, ' : ', 'uzi', ' : ', 99.95667338371277)
+uzi_321.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99967813491821)
+uzi_322.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99644756317139)
+uzi_323.jpeg
+(1, ' : ', 'uzi', ' : ', 99.9947190284729)
+uzi_324.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99963045120239)
+uzi_325.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99829530715942)
+uzi_326.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99600648880005)
+uzi_327.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99533891677856)
+uzi_328.jpeg
+(1, ' : ', 'uzi', ' : ', 100.0)
+uzi_329.jpeg
+(1, ' : ', 'uzi', ' : ', 99.80130195617676)
+uzi_330.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99606609344482)
+uzi_331.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99699592590332)
+uzi_332.png
+(1, ' : ', 'uzi', ' : ', 99.9936580657959)
+uzi_333.jpeg
+(1, ' : ', 'uzi', ' : ', 99.95416402816772)
+uzi_334.png
+(1, ' : ', 'uzi', ' : ', 99.99966621398926)
+uzi_335.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99992847442627)
+uzi_336.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99768733978271)
+uzi_337.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99990463256836)
+uzi_338.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99995231628418)
+uzi_339.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99786615371704)
+uzi_340.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99756813049316)
+uzi_341.png
+(1, ' : ', 'uzi', ' : ', 99.99657869338989)
+uzi_342.jpeg
+(1, ' : ', 'uzi', ' : ', 99.98807907104492)
+uzi_343.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99861717224121)
+uzi_344.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99265670776367)
+uzi_345.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99977350234985)
+uzi_346.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99927282333374)
+uzi_347.jpeg
+(1, ' : ', 'uzi', ' : ', 99.95087385177612)
+uzi_348.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99512434005737)
+uzi_349.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99240636825562)
+uzi_350.jpeg
+(1, ' : ', 'uzi', ' : ', 99.88417029380798)
+uzi_351.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99147653579712)
+uzi_352.png
+(1, ' : ', 'uzi', ' : ', 99.96179342269897)
+uzi_353.png
+(1, ' : ', 'uzi', ' : ', 99.8140811920166)
+uzi_354.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99951124191284)
+uzi_355.jpeg
+(1, ' : ', 'uzi', ' : ', 99.9786913394928)
+uzi_356.jpeg
+(1, ' : ', 'uzi', ' : ', 99.9022364616394)
+uzi_357.png : Not a weapon
+uzi_358.jpeg
+(1, ' : ', 'uzi', ' : ', 99.90330934524536)
+uzi_359.jpeg
+(1, ' : ', 'uzi', ' : ', 99.9629259109497)
+uzi_360.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99783039093018)
+uzi_361.jpeg
+(1, ' : ', 'uzi', ' : ', 99.95468258857727)
+uzi_362.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99852180480957)
+uzi_363.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99513626098633)
+uzi_364.jpeg
+(1, ' : ', 'uzi', ' : ', 99.98511075973511)
+uzi_365.jpeg
+(1, ' : ', 'uzi', ' : ', 99.94161128997803)
+uzi_366.jpeg
+(1, ' : ', 'uzi', ' : ', 99.93835687637329)
+uzi_367.jpeg
+(1, ' : ', 'uzi', ' : ', 99.964439868927)
+uzi_368.jpeg
+(1, ' : ', 'uzi', ' : ', 99.97888207435608)
+uzi_369.jpeg
+(1, ' : ', 'uzi', ' : ', 99.9680757522583)
+uzi_370.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99374151229858)
+uzi_371.jpeg
+(1, ' : ', 'uzi', ' : ', 99.9998927116394)
+uzi_372.jpeg
+(1, ' : ', 'uzi', ' : ', 99.97943043708801)
+uzi_373.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99727010726929)
+uzi_374.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99717473983765)
+uzi_375.jpeg : Not a weapon
+uzi_376.jpeg
+(1, ' : ', 'uzi', ' : ', 99.84508752822876)
+uzi_377.png
+(1, ' : ', 'uzi', ' : ', 99.99842643737793)
+uzi_378.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99973773956299)
+uzi_379.jpeg
+(1, ' : ', 'uzi', ' : ', 99.95311498641968)
+uzi_380.png
+(1, ' : ', 'uzi', ' : ', 99.99444484710693)
+uzi_381.jpeg
+(1, ' : ', 'uzi', ' : ', 99.97398257255554)
+uzi_382.jpeg
+(1, ' : ', 'uzi', ' : ', 99.97921586036682)
+uzi_383.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99865293502808)
+uzi_384.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99723434448242)
+uzi_385.jpeg
+(1, ' : ', 'uzi', ' : ', 99.78813529014587)
+uzi_386.jpeg
+(1, ' : ', 'uzi', ' : ', 99.9699592590332)
+uzi_387.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99619722366333)
+uzi_388.jpeg
+(1, ' : ', 'uzi', ' : ', 99.980229139328)
+uzi_389.png
+(1, ' : ', 'uzi', ' : ', 99.95201826095581)
+uzi_390.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99275207519531)
+uzi_391.jpeg
+(1, ' : ', 'uzi', ' : ', 99.98855590820312)
+uzi_392.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99175071716309)
+uzi_393.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99955892562866)
+uzi_394.png
+(1, ' : ', 'uzi', ' : ', 99.97870326042175)
+uzi_395.jpeg
+(1, ' : ', 'uzi', ' : ', 99.97267127037048)
+uzi_396.jpeg
+(1, ' : ', 'uzi', ' : ', 99.93423819541931)
+uzi_397.jpeg
+(1, ' : ', 'uzi', ' : ', 99.98488426208496)
+uzi_398.jpeg
+(1, ' : ', 'uzi', ' : ', 99.9886155128479)
+uzi_399.jpeg
+(1, ' : ', 'gun', ' : ', 81.99791312217712)
+uzi_400.jpeg
+(1, ' : ', 'uzi', ' : ', 99.99996423721313)
+watch_41.jpeg : Not a weapon
+watch_42.jpeg : Not a weapon
+watch_43.jpeg : Not a weapon
+watch_44.jpeg
+(1, ' : ', 'grenade', ' : ', 85.74698567390442)
+watch_45.png : Not a weapon
+watch_46.jpeg : Not a weapon
+watch_47.png : Not a weapon
+watch_48.jpeg : Not a weapon
+watch_49.jpeg : Not a weapon
+watch_50.jpeg
+(1, ' : ', 'uzi', ' : ', 99.00692105293274)
+End Time = 21:36:19
