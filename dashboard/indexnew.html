@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dashboard</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+		<div class="logo">Xero<span>Source</span></div>
+		
+	</header>
+	<div class="nav-btn">Menu</div>
+	<div class="container">
+		
+		<div class="sidebar">
+			<nav>
+				<a href="#">SA</span></a>
+				<ul>
+					<li class="active"><a href="#">Dashboard</a></li>
+					<li><a href="#">About</a></li>
+				</ul>
+			</nav>
+		</div>
+
+		<div class="main-content">
+			<h1>Dashboard</h1>
+			<p>Here you can stuff!</p>
+			<div class="panel-wrapper">
+				<div class="panel-head">
+					News
+				</div>
+				<div class="panel-body">
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam fugiat culpa quia possimus molestiae id sapiente ad eveniet, aliquid, eum sint fuga eius, ratione suscipit ut minus voluptates dicta nesciunt.
+				</div>
+			</div>
+			<div class="panel-wrapper">
+				<div class="panel-head">
+					News
+				</div>
+  <div id="chartContainer" style="height: 300px; max-width: 920px; margin: 0px auto;">
+  </div>
+			</div>
+			<div class="panel-wrapper">
+				<div class="panel-head">
+					News
+				</div>
+<div id="chartContainer2" style="height: 650px; max-width: 920px; margin: 0px auto;"></div>
+			</div>
+		</div>
+	</div>
+		
+	<script type="text/javascript">
+window.onload = function () {
+
+	var chart = new CanvasJS.Chart("chartContainer",
+    {
+      title:{
+        text: "Detection Accuracy"
+      },
+      axisY: {
+        title: "Number of Images",
+        maximum: 1010
+      },
+      data: [
+      {
+        type: "bar",
+        showInLegend: true,
+        legendText: "Images",
+        color: "blue",
+        dataPoints: [
+        { y: 198, label: "Italy"},
+        { y: 201, label: "China"},
+        { y: 202, label: "France"},
+        { y: 236, label: "Great Britain"},
+        { y: 395, label: "Soviet Union"},
+        { y: 957, label: "USA"}
+        ]
+      }
+      ]
+    });
+
+chart.render();
+	
+	var chart2 = new CanvasJS.Chart("chartContainer2",
+	{
+		theme: "light2",
+		title:{
+			text: "Weapons Identified"
+		},		
+		data: [
+		{       
+			type: "pie",
+			showInLegend: true,
+			toolTipContent: "{y} - #percent %",
+			yValueFormatString: "#,##0,,.## Million",
+			legendText: "{indexLabel}",
+			dataPoints: [
+				{  y: 101, indexLabel: "Ammunition" },
+				{  y: 97, indexLabel: "Grenade" },
+				{  y: 99, indexLabel: "Gun" },
+				{  y: 98, indexLabel: "Pistol"},
+				{  y: 100, indexLabel: "Revolver" },
+				{  y: 201, indexLabel: "Rifle"},
+				{  y: 100, indexLabel: "Rocket_launcher"},
+				{  y: 98, indexLabel: "Shotgun"},
+				{  y: 102, indexLabel: "Uzi"},
+				{  y: 156, indexLabel: "Non-weapon"}
+			]
+		}
+		]
+	});
+	chart2.render();
+}
+</script>
+<script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+	<script src="test.js"></script>
+	</body>
+</html>
