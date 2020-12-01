@@ -88,31 +88,61 @@ def weaponResult(image_list):
     file1 = open('index.html', 'r') 
     lines = file1.readlines()
 
-    for line in lines:
-        new_content = line
-        for item in item_lists:
-            if item in line:
-                if "ammunition_count" in item:
+for line in lines:
+    new_content = line
+    for item in item_list:
+        if item in line:
+            if item == "ammunition_count":
+                if item_am > 0:
                     new_content = line.replace("ammunition_count", str(item_am))
-                elif "grenade_count" in item:
+                else:
+                    new_content = ""
+            elif item == "grenade_count":
+                if item_gre > 0:
                     new_content = line.replace("grenade_count", str(item_gre))
-                elif "gun_count" in item:
+                else:
+                    new_content = ""
+            elif item == "gun_count":
+                if item_gun > 0:
                     new_content = line.replace("gun_count", str(item_gun))
-                elif "pistol_count" in item:
+                else:
+                    new_content = ""
+            elif item == "pistol_count":
+                if item_pis > 0:
                     new_content = line.replace("pistol_count", str(item_pis))
-                elif "revolver_count" in item:
+                else:
+                    new_content = ""
+            elif item == "revolver_count":
+                if item_rev > 0:
                     new_content = line.replace("revolver_count", str(item_rev))
-                elif "rifle_count" in item:
+                else:
+                    new_content = ""
+            elif item == "rifle_count":
+                if item_rif > 0:
                     new_content = line.replace("rifle_count", str(item_rif))
-                elif "rocket_launcher_count" in item:
+                else:
+                    new_content = ""
+            elif item == "rocket_launcher_count":
+                if item_roc > 0:
                     new_content = line.replace("rocket_launcher_count", str(item_roc))
-                elif "shotg_count" in item:
+                else:
+                    new_content = ""
+            elif item == "shotg_count":
+                if item_sho > 0:
                     new_content = line.replace("shotg_count", str(item_sho))
-                elif "uzi_count" in item:
+                else:
+                    new_content = ""
+            elif item == "uzi_count":
+                if item_uzi > 0:
                     new_content = line.replace("uzi_count", str(item_uzi))
-                elif "non-weapon_count" in item:
+                else:
+                    new_content = ""
+            elif item == "non-weapon_count":
+                if item_non > 0:
                     new_content = line.replace("non-weapon_count", str(item_non))
-        new_contents.append(new_content)
+                else:
+                    new_content = ""
+    new_contents.append(new_content)
        
     file1.close()
     file2 = open('indexnew.html', 'w')
