@@ -27,66 +27,62 @@
 			<p>Here you can stuff!</p>
 			<div class="panel-wrapper">
 				<div class="panel-head">
-					News
+					Drive
 				</div>
 				<div class="panel-body">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam fugiat culpa quia possimus molestiae id sapiente ad eveniet, aliquid, eum sint fuga eius, ratione suscipit ut minus voluptates dicta nesciunt.
+					drivename
 				</div>
 			</div>
 			<div class="panel-wrapper">
 				<div class="panel-head">
-					News
+					Detection Accuracy
 				</div>
-  <div id="chartContainer" style="height: 300px; max-width: 920px; margin: 0px auto;">
-  </div>
+				<div id="chartContainer" style="height: 300px; max-width: 920px; margin: 0px auto;">
+				</div>
 			</div>
 			<div class="panel-wrapper">
 				<div class="panel-head">
-					News
+					Weapons Identified
 				</div>
-<div id="chartContainer2" style="height: 650px; max-width: 920px; margin: 0px auto;"></div>
+				<div id="chartContainer2" style="height: 650px; max-width: 920px; margin: 0px auto;"></div>
+			</div>
+			<div class="panel-wrapper">
+				<div class="panel-head">
+					Detection Timeline
+				</div>
+				<div id="chartContainer3" style="height: 650px; max-width: 920px; margin: 0px auto;"></div>
 			</div>
 		</div>
 	</div>
 		
 	<script type="text/javascript">
-window.onload = function () {
+	window.onload = function () {
 
-	var chart = new CanvasJS.Chart("chartContainer",
-    {
-      title:{
-        text: "Detection Accuracy"
-      },
-      axisY: {
-        title: "Number of Images",
-        maximum: 1010
-      },
-      data: [
-      {
-        type: "bar",
-        showInLegend: true,
-        legendText: "Images",
-        color: "blue",
-        dataPoints: [
-        { y: 198, label: "Italy"},
-        { y: 201, label: "China"},
-        { y: 202, label: "France"},
-        { y: 236, label: "Great Britain"},
-        { y: 395, label: "Soviet Union"},
-        { y: 957, label: "USA"}
-        ]
-      }
-      ]
-    });
+		var chart = new CanvasJS.Chart("chartContainer",
+		{
+		  axisY: {
+			title: "Accuracy in (%)",
+			interval: 1,
+			maximum: 100
+		  },
+		  data: [
+		  {
+			type: "bar",
+			showInLegend: true,
+			legendText: "Images",
+			color: "blue",
+			dataPoints: [
+			placeholder
+			]
+		  }
+		  ]
+		});
 
-chart.render();
+	chart.render();
 	
 	var chart2 = new CanvasJS.Chart("chartContainer2",
 	{
-		theme: "light2",
-		title:{
-			text: "Weapons Identified"
-		},		
+		theme: "light2",		
 		data: [
 		{       
 			type: "pie",
@@ -109,6 +105,26 @@ chart.render();
 		]
 	});
 	chart2.render();
+	
+	var chart3 = new CanvasJS.Chart("chartContainer3",
+    {
+      axisY: {
+        title: "Weapon count/date",
+		includeZero: false,
+		interval: 1,
+      },
+      data: [
+
+      {
+		legendText: "Weapon count/date",
+        dataPoints: [
+        dateholder
+        ]
+      }
+      ]
+    });
+
+    chart3.render();
 }
 </script>
 <script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
