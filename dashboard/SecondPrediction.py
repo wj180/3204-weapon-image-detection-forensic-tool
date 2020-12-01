@@ -264,8 +264,8 @@ def findDir(directory):
     return image_list
                 
 def main():
-    # drive_name = "D:/Downloads/scrape/sample"
-    drive_name = "D:/VM Shared/3204/dashboard/comparison"
+    drive_name = "./sample"
+    # drive_name = "D:/VM Shared/3204/dashboard/comparison"
     image_list = findDir(drive_name)
     weaponResult(image_list, drive_name)
 
