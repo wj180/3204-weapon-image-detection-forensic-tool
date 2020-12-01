@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
 import matplotlib.pyplot as plt
 import datetime
+import webbrowser
 
 def weaponResult(image_list, drive_name):
     execution_path = os.getcwd()
@@ -186,8 +187,12 @@ def weaponResult(image_list, drive_name):
     file2 = open('indexnew.html', 'w')
     file2.writelines(new_contents)
     file2.close()
-    
-    
+
+    new = 2
+    url = "file://D:/VM Shared/3204/dashboard/dashboard/indexnew.html"
+    webbrowser.open(url, new=new)
+
+
 def findDir(directory):
     image_list = []
     for folder, dirs, files in os.walk(directory):
@@ -199,7 +204,9 @@ def findDir(directory):
     return image_list
                 
 def main():
-    drive_name = "D:/Downloads/scrape/sample"
+    # drive_name = "D:/Downloads/scrape/sample"
+    drive_name = "D:/VM Shared/3204/dashboard/comparison"
+    # drive_name = "D:/VM Shared/3204/dashboard/dashboard/sample"
     image_list = findDir(drive_name)
     weaponResult(image_list, drive_name)
 
