@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
 import matplotlib.pyplot as plt
 import datetime
-import webbrowser
 
 def weaponResult(image_list, drive_name):
     execution_path = os.getcwd()
@@ -24,6 +23,25 @@ def weaponResult(image_list, drive_name):
     item_roc = 0
     item_sho = 0
     item_uzi = 0
+    
+    amm_avg = 0
+    amm_count = 0
+    gre_avg = 0
+    gre_count = 0
+    gun_avg = 0
+    gun_count = 0
+    pis_avg = 0
+    pis_count = 0
+    rev_avg = 0
+    rev_count = 0
+    rif_avg =0 
+    rif_count = 0
+    roc_avg = 0
+    roc_count = 0
+    sho_avg = 0
+    sho_count = 0
+    uzi_avg = 0
+    uzi_count = 0
     
     prediction = CustomImagePrediction()
     prediction.setModelPath(model_path=os.path.join(execution_path, "model_ex-031_acc-0.980000.h5"))
@@ -51,40 +69,81 @@ def weaponResult(image_list, drive_name):
                     date_count = {i:dates.count(i) for i in dates}                    
                     # print("Created: " + cdate) 
                     # print(tail)
-                    # print(line)
+                    print(line)
                     if eachPrediction == "ammunition":
                         item_am += 1
-                        weapon_acc_list.append('{ y: ' + str(int(eachProbability)) + ', label: "' + tail + ' - ' + 'ammunition"}')
+                        amm_count += 1
+                        amm_avg += eachProbability
                     elif eachPrediction == "grenade":
                         item_gre += 1
-                        weapon_acc_list.append('{ y: ' + str(int(eachProbability)) + ', label: "' + tail + ' - ' + 'grenade"}')
+                        gre_count += 1
+                        gre_avg += eachProbability
                     elif eachPrediction == "gun":
                         item_gun += 1
-                        weapon_acc_list.append('{ y: ' + str(int(eachProbability)) + ', label: "' + tail + ' - ' + 'gun"}')
+                        gun_count += 1
+                        gun_avg += eachProbability                        
                     elif eachPrediction == "pistol":
                         item_pis += 1
-                        weapon_acc_list.append('{ y: ' + str(int(eachProbability)) + ', label: "' + tail + ' - ' + 'pistol"}')
+                        pis_count += 1
+                        pis_avg += eachProbability
                     elif eachPrediction == "revolver":
                         item_rev += 1
-                        weapon_acc_list.append('{ y: ' + str(int(eachProbability)) + ', label: "' + tail + ' - ' + 'revolver"}')
+                        rev_count += 1
+                        rev_avg += eachProbability
                     elif eachPrediction == "rifle":
                         item_rif += 1
-                        weapon_acc_list.append('{ y: ' + str(int(eachProbability)) + ', label: "' + tail + ' - ' + 'rifle"}')
+                        rif_count += 1
+                        rif_avg += eachProbability
                     elif eachPrediction == "rocket_launcher":
                         item_roc += 1
-                        weapon_acc_list.append('{ y: ' + str(int(eachProbability)) + ', label: "' + tail + ' - ' + 'rocket_launcher"}')
+                        roc_count += 1
+                        roc_avg += eachProbability
                     elif eachPrediction == "shotgun":
                         item_sho += 1
-                        weapon_acc_list.append('{ y: ' + str(int(eachProbability)) + ', label: "' + tail + ' - ' + 'shotgun"},')
+                        sho_count += 1
+                        sho_avg += eachProbability
                     elif eachPrediction == "uzi":
                         item_uzi += 1
-                        weapon_acc_list.append('{ y: ' + str(int(eachProbability)) + ', label: "' + tail + ' - ' + 'uzi"}')
+                        uzi_count += 1
+                        uzi_avg += eachProbability
                 else:
                     print(tail)
                     print("Not a weapon" + str(int(eachProbability)))
                     item_non += 1
                 count += 1
                 break
+    
+    print("Guncount: " + str(gun_count))
+    
+    if amm_count:
+        amm_avg = amm_avg/amm_count
+        weapon_acc_list.append('{ y: ' + str(amm_avg) + ', label: "Ammunition average accuracy"}')
+    if gre_count:
+        gre_avg = gre_avg/gre_count
+        weapon_acc_list.append('{ y: ' + str(gre_avg) + ', label: "Grenade average accuracy"}')       
+    if gun_count:
+        gun_avg = gun_avg/gun_count
+        weapon_acc_list.append('{ y: ' + str(gun_avg) + ', label: "Gun average accuracy"}')     
+    if pis_count:
+        pis_avg = pis_avg/pis_count
+        weapon_acc_list.append('{ y: ' + str(pis_avg) + ', label: "Pistol average accuracy"}')     
+    if rev_count:
+        rev_avg = rev_avg/rev_count
+        weapon_acc_list.append('{ y: ' + str(rev_avg) + ', label: "Revolver average accuracy"}') 
+    if rif_count:
+        rif_avg = rif_avg/rif_count
+        weapon_acc_list.append('{ y: ' + str(rif_avg) + ', label: "Rifle average accuracy"}') 
+    if roc_count:
+        roc_avg = roc_avg/roc_count
+        weapon_acc_list.append('{ y: ' + str(roc_avg) + ', label: "Rocket Launcher average accuracy"}') 
+    if sho_count:
+        sho_avg = sho_avg/sho_count
+        weapon_acc_list.append('{ y: ' + str(sho_avg) + ', label: "Shotgun average accuracy"}') 
+    if uzi_count:
+        uzi_avg = uzi_avg/uzi_count
+        weapon_acc_list.append('{ y: ' + str(uzi_avg) + ', label: "UZI average accuracy"}') 
+    
+    print(weapon_acc_list)
     
     print(type(date_count))
     date_content = '{ x: 1, y: 0, label: "Empty"}'
@@ -187,12 +246,8 @@ def weaponResult(image_list, drive_name):
     file2 = open('indexnew.html', 'w')
     file2.writelines(new_contents)
     file2.close()
-
-    new = 2
-    url = "file://D:/VM Shared/3204/dashboard/dashboard/indexnew.html"
-    webbrowser.open(url, new=new)
-
-
+    
+    
 def findDir(directory):
     image_list = []
     for folder, dirs, files in os.walk(directory):
@@ -204,9 +259,7 @@ def findDir(directory):
     return image_list
                 
 def main():
-    # drive_name = "D:/Downloads/scrape/sample"
-    drive_name = "D:/VM Shared/3204/dashboard/comparison"
-    # drive_name = "D:/VM Shared/3204/dashboard/dashboard/sample"
+    drive_name = "D:/Downloads/scrape/sample"
     image_list = findDir(drive_name)
     weaponResult(image_list, drive_name)
 
