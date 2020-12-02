@@ -1,0 +1,12 @@
+{
+    "0" : "ammunition",
+    "1" : "grenade",
+    "2" : "machine_gun",
+    "3" : "non-weapons",
+    "4" : "pistol",
+    "5" : "revolver",
+    "6" : "rifle",
+    "7" : "rocket_launcher",
+    "8" : "shotgun",
+    "9" : "uzi"
+}
