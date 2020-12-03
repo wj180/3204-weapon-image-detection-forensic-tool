@@ -60,7 +60,7 @@ def weaponResult(image_list, drive_name):
             line = count , " : " , eachPrediction , " : " , eachProbability
             if count == 1:
                 head, tail = os.path.split(image_path)
-                if (eachProbability > 80) and (eachPrediction != "non-weapon"):                    
+                if (eachProbability > 75) and (eachPrediction != "non-weapon"):                    
                     
                     # weapon_found.append(tail + ' - ' + eachPrediction)
                     # weapon_found_acc.append(eachProbability)
