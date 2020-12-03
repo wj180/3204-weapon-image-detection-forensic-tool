@@ -126,7 +126,7 @@ def weaponResult(image_list, drive_name):
         weapon_acc_list.append('{ y: ' + str(gre_avg) + ', label: "Grenade average accuracy"}')       
     if gun_count:
         gun_avg = gun_avg/gun_count
-        weapon_acc_list.append('{ y: ' + str(gun_avg) + ', label: "Gun average accuracy"}')     
+        weapon_acc_list.append('{ y: ' + str(gun_avg) + ', label: "Machine Gun average accuracy"}')     
     if pis_count:
         pis_avg = pis_avg/pis_count
         weapon_acc_list.append('{ y: ' + str(pis_avg) + ', label: "Pistol average accuracy"}')     
