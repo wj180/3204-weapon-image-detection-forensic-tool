@@ -7,6 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import datetime
 import webbrowser
+import sys
 
 def weaponResult(image_list, drive_name):
     execution_path = os.getcwd()
@@ -264,8 +265,7 @@ def findDir(directory):
     return image_list
                 
 def main():
-    drive_name = "./sample"
-    # drive_name = "D:/VM Shared/3204/dashboard/comparison"
+    drive_name = sys.argv[1]
     image_list = findDir(drive_name)
     weaponResult(image_list, drive_name)
 
