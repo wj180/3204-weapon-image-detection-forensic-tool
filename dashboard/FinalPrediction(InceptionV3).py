@@ -8,14 +8,9 @@ import matplotlib.pyplot as plt
 import datetime
 import webbrowser
 import sys
-from datetime import datetime
 
 def weaponResult(image_list, drive_name):
     execution_path = os.getcwd()
-
-    now = datetime.now()
-    start_time = now.strftime("%H:%M:%S")
-    print("Start Time =", start_time)
 
     weapon_acc_list = []
     weapon_found = []
@@ -66,7 +61,7 @@ def weaponResult(image_list, drive_name):
             line = count , " : " , eachPrediction , " : " , eachProbability
             if count == 1:
                 head, tail = os.path.split(image_path)
-                if (eachProbability > 75) and (eachPrediction != "non-weapon"):
+                if (eachProbability > 80) and (eachPrediction != "non-weapon"):
                     
                     # weapon_found.append(tail + ' - ' + eachPrediction)
                     # weapon_found_acc.append(eachProbability)
@@ -275,10 +270,6 @@ def main():
 
     image_list = findDir(drive_name)
     weaponResult(image_list, drive_name)
-
-    endtime = datetime.now()
-    end_time = endtime.strftime("%H:%M:%S")
-    print("End Time =", end_time)
 
 if __name__ == "__main__":
 	main()
