@@ -81,7 +81,7 @@ def weaponResult(image_list, drive_name):
                         item_gre += 1
                         gre_count += 1
                         gre_avg += eachProbability
-                    elif eachPrediction == "gun":
+                    elif eachPrediction == "machine_gun":
                         item_gun += 1
                         gun_count += 1
                         gun_avg += eachProbability                        
