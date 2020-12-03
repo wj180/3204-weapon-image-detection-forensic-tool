@@ -1,0 +1,1428 @@
+Start Time = 15:52:08
+ammunition_301.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99988079071045)
+ammunition_302.jpeg
+(1, ' : ', 'ammunition', ' : ', 97.63550162315369)
+ammunition_303.jpeg
+(1, ' : ', 'ammunition', ' : ', 85.15833020210266)
+ammunition_304.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99880790710449)
+ammunition_305.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.87983703613281)
+ammunition_306.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.94550347328186)
+ammunition_307.png : Not a weapon
+ammunition_308.jpeg : Not a weapon
+ammunition_309.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.65770840644836)
+ammunition_310.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99921321868896)
+ammunition_311.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.73342418670654)
+ammunition_312.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.95692372322083)
+ammunition_313.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.93312358856201)
+ammunition_314.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99998807907104)
+ammunition_315.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99998807907104)
+ammunition_316.jpeg : Not a weapon
+ammunition_317.jpeg : Not a weapon
+ammunition_318.jpeg : Not a weapon
+ammunition_319.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.95686411857605)
+ammunition_320.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.73691701889038)
+ammunition_321.jpeg
+(1, ' : ', 'ammunition', ' : ', 100.0)
+ammunition_322.jpeg
+(1, ' : ', 'ammunition', ' : ', 100.0)
+ammunition_323.jpeg : Not a weapon
+ammunition_324.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.52634572982788)
+ammunition_325.jpeg : Not a weapon
+ammunition_326.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.8228371143341)
+ammunition_327.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99563694000244)
+ammunition_328.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99998807907104)
+ammunition_329.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.10653233528137)
+ammunition_330.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.97195601463318)
+ammunition_331.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.43135976791382)
+ammunition_332.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.96912479400635)
+ammunition_333.jpeg : Not a weapon
+ammunition_334.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99998807907104)
+ammunition_335.jpeg : Not a weapon
+ammunition_336.jpeg : Not a weapon
+ammunition_337.png
+(1, ' : ', 'ammunition', ' : ', 98.87199997901917)
+ammunition_338.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.98677968978882)
+ammunition_339.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.37912821769714)
+ammunition_340.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.993896484375)
+ammunition_341.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99998807907104)
+ammunition_342.jpeg
+(1, ' : ', 'ammunition', ' : ', 83.22575688362122)
+ammunition_343.jpeg : Not a weapon
+ammunition_344.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.6156632900238)
+ammunition_345.jpeg
+(1, ' : ', 'ammunition', ' : ', 88.57032656669617)
+ammunition_346.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99996423721313)
+ammunition_347.jpeg : Not a weapon
+ammunition_348.jpeg : Not a weapon
+ammunition_349.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99929666519165)
+ammunition_350.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99998807907104)
+ammunition_351.jpeg : Not a weapon
+ammunition_352.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.81497526168823)
+ammunition_353.png : Not a weapon
+ammunition_354.png
+(1, ' : ', 'ammunition', ' : ', 98.94964098930359)
+ammunition_355.jpeg
+(1, ' : ', 'non-weapons', ' : ', 94.35951709747314)
+ammunition_356.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.7351884841919)
+ammunition_357.jpeg
+(1, ' : ', 'ammunition', ' : ', 95.07354497909546)
+ammunition_358.png : Not a weapon
+ammunition_359.jpeg
+(1, ' : ', 'ammunition', ' : ', 88.06273937225342)
+ammunition_360.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.91655349731445)
+ammunition_361.png
+(1, ' : ', 'ammunition', ' : ', 99.5899498462677)
+ammunition_362.jpeg : Not a weapon
+ammunition_363.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.90793466567993)
+ammunition_364.png
+(1, ' : ', 'ammunition', ' : ', 99.68611001968384)
+ammunition_365.jpeg
+(1, ' : ', 'ammunition', ' : ', 96.0385799407959)
+ammunition_366.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.28678274154663)
+ammunition_367.jpeg
+(1, ' : ', 'ammunition', ' : ', 88.17578554153442)
+ammunition_368.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.11137223243713)
+ammunition_369.png
+(1, ' : ', 'ammunition', ' : ', 99.90930557250977)
+ammunition_370.jpeg
+(1, ' : ', 'ammunition', ' : ', 90.71123600006104)
+ammunition_371.jpeg : Not a weapon
+ammunition_372.jpeg : Not a weapon
+ammunition_373.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.96265172958374)
+ammunition_374.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.86133575439453)
+ammunition_375.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.77707862854004)
+ammunition_376.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99988079071045)
+ammunition_377.jpeg
+(1, ' : ', 'ammunition', ' : ', 97.63550162315369)
+ammunition_378.jpeg
+(1, ' : ', 'ammunition', ' : ', 85.15833020210266)
+ammunition_379.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99880790710449)
+ammunition_380.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.87983703613281)
+ammunition_381.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.94550347328186)
+ammunition_382.png : Not a weapon
+ammunition_383.jpeg : Not a weapon
+ammunition_384.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.65770840644836)
+ammunition_385.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99921321868896)
+ammunition_386.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.73342418670654)
+ammunition_387.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.95692372322083)
+ammunition_388.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.93312358856201)
+ammunition_389.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99998807907104)
+ammunition_390.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.99998807907104)
+ammunition_391.jpeg : Not a weapon
+ammunition_392.jpeg : Not a weapon
+ammunition_393.jpeg : Not a weapon
+ammunition_394.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.95686411857605)
+ammunition_395.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.73691701889038)
+ammunition_396.jpeg
+(1, ' : ', 'ammunition', ' : ', 100.0)
+ammunition_397.jpeg
+(1, ' : ', 'ammunition', ' : ', 100.0)
+ammunition_398.jpeg : Not a weapon
+ammunition_399.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.52634572982788)
+ammunition_400.jpeg
+(1, ' : ', 'ammunition', ' : ', 99.8228371143341)
+bag_41.png : Not a weapon
+bag_42.jpeg
+(1, ' : ', 'uzi', ' : ', 86.53460144996643)
+bag_43.jpeg
+(1, ' : ', 'non-weapons', ' : ', 95.13323307037354)
+bag_44.jpeg
+(1, ' : ', 'grenade', ' : ', 86.11200451850891)
+bag_45.jpeg : Not a weapon
+bag_46.jpeg : Not a weapon
+bag_47.jpeg : Not a weapon
+bag_48.png : Not a weapon
+bag_49.jpeg : Not a weapon
+bag_50.jpeg
+(1, ' : ', 'non-weapons', ' : ', 86.37560606002808)
+book_41.jpeg
+(1, ' : ', 'non-weapons', ' : ', 96.65066599845886)
+book_42.jpeg : Not a weapon
+book_43.jpeg : Not a weapon
+book_44.jpeg : Not a weapon
+book_45.jpeg : Not a weapon
+book_46.jpeg : Not a weapon
+book_47.jpeg
+(1, ' : ', 'non-weapons', ' : ', 92.1934962272644)
+book_48.jpeg : Not a weapon
+book_49.jpeg : Not a weapon
+book_50.jpeg : Not a weapon
+bottle_41.jpeg
+(1, ' : ', 'non-weapons', ' : ', 89.68639373779297)
+bottle_42.jpeg : Not a weapon
+bottle_43.jpeg
+(1, ' : ', 'non-weapons', ' : ', 97.31662273406982)
+bottle_44.png
+(1, ' : ', 'grenade', ' : ', 92.87462830543518)
+bottle_45.jpeg
+(1, ' : ', 'non-weapons', ' : ', 93.85575652122498)
+bottle_46.png : Not a weapon
+bottle_47.png : Not a weapon
+bottle_48.jpeg
+(1, ' : ', 'non-weapons', ' : ', 97.1726655960083)
+bottle_49.jpeg
+(1, ' : ', 'non-weapons', ' : ', 85.02340316772461)
+bottle_50.jpeg
+(1, ' : ', 'non-weapons', ' : ', 91.43928289413452)
+camera_41.jpeg
+(1, ' : ', 'non-weapons', ' : ', 97.57781624794006)
+camera_42.jpeg : Not a weapon
+camera_43.jpeg : Not a weapon
+camera_44.jpeg : Not a weapon
+camera_45.jpeg : Not a weapon
+camera_46.jpeg : Not a weapon
+camera_47.jpeg : Not a weapon
+camera_48.jpeg : Not a weapon
+camera_49.jpeg : Not a weapon
+camera_50.jpeg : Not a weapon
+chair_41.jpeg
+(1, ' : ', 'non-weapons', ' : ', 95.92548608779907)
+chair_42.jpeg : Not a weapon
+chair_43.jpeg : Not a weapon
+chair_44.jpeg : Not a weapon
+chair_45.jpeg : Not a weapon
+chair_46.jpeg : Not a weapon
+chair_47.jpeg : Not a weapon
+chair_48.jpeg : Not a weapon
+chair_49.jpeg : Not a weapon
+chair_50.jpeg
+(1, ' : ', 'non-weapons', ' : ', 97.10166454315186)
+computer_41.jpeg
+(1, ' : ', 'rifle', ' : ', 91.81739687919617)
+computer_42.jpeg
+(1, ' : ', 'non-weapons', ' : ', 85.02398729324341)
+computer_43.jpeg
+(1, ' : ', 'non-weapons', ' : ', 97.14162945747375)
+computer_44.jpeg : Not a weapon
+computer_45.jpeg : Not a weapon
+computer_46.jpeg
+(1, ' : ', 'non-weapons', ' : ', 90.52615761756897)
+computer_47.jpeg : Not a weapon
+computer_48.jpeg : Not a weapon
+computer_49.jpeg
+(1, ' : ', 'non-weapons', ' : ', 98.7445592880249)
+computer_50.jpeg
+(1, ' : ', 'non-weapons', ' : ', 85.99668145179749)
+door_41.jpeg : Not a weapon
+door_42.jpeg
+(1, ' : ', 'non-weapons', ' : ', 96.50588631629944)
+door_43.jpeg : Not a weapon
+door_44.jpeg : Not a weapon
+door_46.jpeg : Not a weapon
+door_47.png
+(1, ' : ', 'non-weapons', ' : ', 91.20712280273438)
+door_48.jpeg : Not a weapon
+door_49.jpeg : Not a weapon
+door_50.jpeg : Not a weapon
+grenade_301.jpeg : Not a weapon
+grenade_302.jpeg
+(1, ' : ', 'grenade', ' : ', 94.50381994247437)
+grenade_303.jpeg : Not a weapon
+grenade_305.jpeg
+(1, ' : ', 'grenade', ' : ', 99.0213692188263)
+grenade_306.jpeg : Not a weapon
+grenade_308.jpeg : Not a weapon
+grenade_309.jpeg : Not a weapon
+grenade_310.jpeg
+(1, ' : ', 'grenade', ' : ', 99.40557479858398)
+grenade_311.jpeg
+(1, ' : ', 'grenade', ' : ', 94.54963207244873)
+grenade_312.jpeg
+(1, ' : ', 'grenade', ' : ', 87.8949224948883)
+grenade_313.jpeg : Not a weapon
+grenade_314.jpeg
+(1, ' : ', 'non-weapons', ' : ', 92.18228459358215)
+grenade_315.jpeg
+(1, ' : ', 'grenade', ' : ', 97.17963337898254)
+grenade_316.jpeg : Not a weapon
+grenade_317.png : Not a weapon
+grenade_318.png : Not a weapon
+grenade_319.jpeg
+(1, ' : ', 'grenade', ' : ', 96.14320397377014)
+grenade_320.jpeg : Not a weapon
+grenade_321.jpeg : Not a weapon
+grenade_322.jpeg
+(1, ' : ', 'grenade', ' : ', 98.85938167572021)
+grenade_323.jpeg
+(1, ' : ', 'grenade', ' : ', 87.68236637115479)
+grenade_324.jpeg : Not a weapon
+grenade_325.jpeg
+(1, ' : ', 'grenade', ' : ', 99.00521636009216)
+grenade_326.jpeg : Not a weapon
+grenade_327.jpeg
+(1, ' : ', 'grenade', ' : ', 92.46081113815308)
+grenade_328.jpeg : Not a weapon
+grenade_329.jpeg : Not a weapon
+grenade_330.jpeg : Not a weapon
+grenade_331.jpeg
+(1, ' : ', 'grenade', ' : ', 92.52569675445557)
+grenade_332.png : Not a weapon
+grenade_333.jpeg
+(1, ' : ', 'grenade', ' : ', 83.73114466667175)
+grenade_334.jpeg : Not a weapon
+grenade_335.jpeg : Not a weapon
+grenade_336.png : Not a weapon
+grenade_337.jpeg
+(1, ' : ', 'grenade', ' : ', 96.73278331756592)
+grenade_338.png : Not a weapon
+grenade_339.jpeg
+(1, ' : ', 'grenade', ' : ', 96.80930972099304)
+grenade_340.jpeg : Not a weapon
+grenade_341.jpeg
+(1, ' : ', 'grenade', ' : ', 89.50528502464294)
+grenade_342.jpeg : Not a weapon
+grenade_343.jpeg
+(1, ' : ', 'grenade', ' : ', 80.38747310638428)
+grenade_344.jpeg : Not a weapon
+grenade_345.jpeg : Not a weapon
+grenade_346.jpeg
+(1, ' : ', 'grenade', ' : ', 94.57788467407227)
+grenade_347.jpeg
+(1, ' : ', 'grenade', ' : ', 92.62338280677795)
+grenade_348.jpeg
+(1, ' : ', 'grenade', ' : ', 88.99770975112915)
+grenade_349.jpeg
+(1, ' : ', 'grenade', ' : ', 98.97217154502869)
+grenade_350.jpeg : Not a weapon
+grenade_351.jpeg : Not a weapon
+grenade_352.jpeg
+(1, ' : ', 'non-weapons', ' : ', 95.81102728843689)
+grenade_353.jpeg
+(1, ' : ', 'grenade', ' : ', 98.94275069236755)
+grenade_354.jpeg
+(1, ' : ', 'grenade', ' : ', 91.93565249443054)
+grenade_355.png : Not a weapon
+grenade_356.jpeg : Not a weapon
+grenade_357.jpeg : Not a weapon
+grenade_358.jpeg
+(1, ' : ', 'grenade', ' : ', 96.95602059364319)
+grenade_359.jpeg : Not a weapon
+grenade_360.jpeg : Not a weapon
+grenade_361.jpeg : Not a weapon
+grenade_362.jpeg : Not a weapon
+grenade_363.jpeg
+(1, ' : ', 'grenade', ' : ', 97.89414405822754)
+grenade_364.jpeg : Not a weapon
+grenade_365.jpeg : Not a weapon
+grenade_366.jpeg : Not a weapon
+grenade_367.jpeg
+(1, ' : ', 'non-weapons', ' : ', 90.46716094017029)
+grenade_368.png : Not a weapon
+grenade_369.jpeg : Not a weapon
+grenade_370.jpeg : Not a weapon
+grenade_371.jpeg
+(1, ' : ', 'grenade', ' : ', 84.37179327011108)
+grenade_372.jpeg : Not a weapon
+grenade_373.jpeg
+(1, ' : ', 'grenade', ' : ', 99.25334453582764)
+grenade_374.jpeg
+(1, ' : ', 'grenade', ' : ', 96.31482362747192)
+grenade_375.jpeg : Not a weapon
+grenade_376.jpeg : Not a weapon
+grenade_377.jpeg
+(1, ' : ', 'grenade', ' : ', 94.50381994247437)
+grenade_378.jpeg : Not a weapon
+grenade_380.jpeg
+(1, ' : ', 'grenade', ' : ', 99.0213692188263)
+grenade_381.jpeg : Not a weapon
+grenade_383.jpeg : Not a weapon
+grenade_384.jpeg : Not a weapon
+grenade_385.jpeg
+(1, ' : ', 'grenade', ' : ', 99.40557479858398)
+grenade_386.jpeg
+(1, ' : ', 'grenade', ' : ', 94.54963207244873)
+grenade_387.jpeg
+(1, ' : ', 'grenade', ' : ', 87.8949224948883)
+grenade_388.jpeg : Not a weapon
+grenade_389.jpeg
+(1, ' : ', 'non-weapons', ' : ', 92.18228459358215)
+grenade_390.jpeg
+(1, ' : ', 'grenade', ' : ', 97.17963337898254)
+grenade_391.jpeg : Not a weapon
+grenade_392.png : Not a weapon
+grenade_393.png : Not a weapon
+grenade_394.jpeg
+(1, ' : ', 'grenade', ' : ', 96.14320397377014)
+grenade_395.jpeg : Not a weapon
+grenade_396.jpeg : Not a weapon
+grenade_397.jpeg
+(1, ' : ', 'grenade', ' : ', 98.85938167572021)
+grenade_398.jpeg
+(1, ' : ', 'grenade', ' : ', 87.68236637115479)
+grenade_399.jpeg : Not a weapon
+grenade_400.jpeg
+(1, ' : ', 'grenade', ' : ', 99.00521636009216)
+handphone_41.jpeg : Not a weapon
+handphone_42.jpeg : Not a weapon
+handphone_43.jpeg
+(1, ' : ', 'non-weapons', ' : ', 98.34871888160706)
+handphone_44.jpeg
+(1, ' : ', 'non-weapons', ' : ', 98.55294823646545)
+handphone_45.jpeg
+(1, ' : ', 'non-weapons', ' : ', 97.72297739982605)
+handphone_46.jpeg : Not a weapon
+handphone_47.jpeg
+(1, ' : ', 'non-weapons', ' : ', 90.46998023986816)
+handphone_48.png
+(1, ' : ', 'non-weapons', ' : ', 97.63014912605286)
+handphone_49.jpeg
+(1, ' : ', 'non-weapons', ' : ', 80.2111804485321)
+handphone_50.jpeg
+(1, ' : ', 'non-weapons', ' : ', 99.97900128364563)
+laptop_31.jpeg
+(1, ' : ', 'non-weapons', ' : ', 98.98648858070374)
+laptop_32.jpeg
+(1, ' : ', 'non-weapons', ' : ', 99.2066502571106)
+laptop_33.png
+(1, ' : ', 'non-weapons', ' : ', 99.0337610244751)
+laptop_34.jpeg : Not a weapon
+laptop_35.jpeg
+(1, ' : ', 'non-weapons', ' : ', 90.52391648292542)
+laptop_36.jpeg
+(1, ' : ', 'non-weapons', ' : ', 93.368399143219)
+laptop_37.jpeg : Not a weapon
+laptop_38.jpeg
+(1, ' : ', 'non-weapons', ' : ', 96.60561084747314)
+laptop_39.jpeg
+(1, ' : ', 'non-weapons', ' : ', 99.99516010284424)
+laptop_40.jpeg : Not a weapon
+machine_gun_301.jpeg : Not a weapon
+machine_gun_302.jpeg : Not a weapon
+machine_gun_303.png : Not a weapon
+machine_gun_304.jpeg : Not a weapon
+machine_gun_305.jpeg : Not a weapon
+machine_gun_306.png : Not a weapon
+machine_gun_307.jpeg : Not a weapon
+machine_gun_308.jpeg : Not a weapon
+machine_gun_309.jpeg : Not a weapon
+machine_gun_310.jpeg : Not a weapon
+machine_gun_311.jpeg : Not a weapon
+machine_gun_312.jpeg : Not a weapon
+machine_gun_313.png : Not a weapon
+machine_gun_314.jpeg : Not a weapon
+machine_gun_315.jpeg : Not a weapon
+machine_gun_316.jpeg : Not a weapon
+machine_gun_317.jpeg : Not a weapon
+machine_gun_318.jpeg : Not a weapon
+machine_gun_319.jpeg : Not a weapon
+machine_gun_320.jpeg : Not a weapon
+machine_gun_321.jpeg : Not a weapon
+machine_gun_322.jpeg : Not a weapon
+machine_gun_323.jpeg : Not a weapon
+machine_gun_324.jpeg : Not a weapon
+machine_gun_325.jpeg : Not a weapon
+machine_gun_326.jpeg : Not a weapon
+machine_gun_327.jpeg : Not a weapon
+machine_gun_328.jpeg : Not a weapon
+machine_gun_329.jpeg : Not a weapon
+machine_gun_330.jpeg : Not a weapon
+machine_gun_331.jpeg : Not a weapon
+machine_gun_332.jpeg : Not a weapon
+machine_gun_333.jpeg : Not a weapon
+machine_gun_334.jpeg : Not a weapon
+machine_gun_335.jpeg : Not a weapon
+machine_gun_336.jpeg : Not a weapon
+machine_gun_337.jpeg : Not a weapon
+machine_gun_338.jpeg : Not a weapon
+machine_gun_339.jpeg : Not a weapon
+machine_gun_340.png : Not a weapon
+machine_gun_341.jpeg : Not a weapon
+machine_gun_342.jpeg : Not a weapon
+machine_gun_343.jpeg : Not a weapon
+machine_gun_344.jpeg : Not a weapon
+machine_gun_345.jpeg : Not a weapon
+machine_gun_346.jpeg : Not a weapon
+machine_gun_347.jpeg : Not a weapon
+machine_gun_348.jpeg : Not a weapon
+machine_gun_349.jpeg : Not a weapon
+machine_gun_350.jpeg : Not a weapon
+machine_gun_351.jpeg : Not a weapon
+machine_gun_352.jpeg : Not a weapon
+machine_gun_353.jpeg : Not a weapon
+machine_gun_354.jpeg
+(1, ' : ', 'rifle', ' : ', 83.0126702785492)
+machine_gun_355.jpeg
+(1, ' : ', 'rifle', ' : ', 82.24557638168335)
+machine_gun_356.jpeg : Not a weapon
+machine_gun_357.jpeg : Not a weapon
+machine_gun_358.jpeg : Not a weapon
+machine_gun_359.jpeg : Not a weapon
+machine_gun_360.jpeg : Not a weapon
+machine_gun_361.jpeg : Not a weapon
+machine_gun_362.jpeg : Not a weapon
+machine_gun_363.jpeg : Not a weapon
+machine_gun_364.jpeg : Not a weapon
+machine_gun_365.jpeg : Not a weapon
+machine_gun_366.jpeg : Not a weapon
+machine_gun_367.jpeg : Not a weapon
+machine_gun_368.jpeg : Not a weapon
+machine_gun_369.jpeg
+(1, ' : ', 'rifle', ' : ', 91.44384860992432)
+machine_gun_370.jpeg : Not a weapon
+machine_gun_371.jpeg
+(1, ' : ', 'rifle', ' : ', 98.78343343734741)
+machine_gun_372.jpeg : Not a weapon
+machine_gun_373.png : Not a weapon
+machine_gun_374.jpeg : Not a weapon
+machine_gun_375.jpeg : Not a weapon
+machine_gun_376.jpeg
+(1, ' : ', 'rifle', ' : ', 82.09741711616516)
+machine_gun_377.jpeg : Not a weapon
+machine_gun_378.png : Not a weapon
+machine_gun_379.jpeg : Not a weapon
+machine_gun_380.jpeg : Not a weapon
+machine_gun_381.jpeg : Not a weapon
+machine_gun_382.jpeg : Not a weapon
+machine_gun_383.png : Not a weapon
+machine_gun_384.jpeg : Not a weapon
+machine_gun_385.jpeg : Not a weapon
+machine_gun_386.png : Not a weapon
+machine_gun_387.jpeg : Not a weapon
+machine_gun_388.jpeg : Not a weapon
+machine_gun_389.jpeg : Not a weapon
+machine_gun_390.jpeg : Not a weapon
+machine_gun_391.jpeg : Not a weapon
+machine_gun_392.jpeg : Not a weapon
+machine_gun_393.png : Not a weapon
+machine_gun_394.jpeg : Not a weapon
+machine_gun_395.jpeg : Not a weapon
+machine_gun_396.jpeg : Not a weapon
+machine_gun_397.jpeg : Not a weapon
+machine_gun_398.jpeg : Not a weapon
+machine_gun_399.jpeg : Not a weapon
+machine_gun_400.jpeg : Not a weapon
+people_41.jpeg : Not a weapon
+people_42.jpeg : Not a weapon
+people_43.jpeg : Not a weapon
+people_44.jpeg : Not a weapon
+people_45.jpeg : Not a weapon
+people_46.jpeg
+(1, ' : ', 'non-weapons', ' : ', 91.3402795791626)
+people_47.jpeg
+(1, ' : ', 'rifle', ' : ', 85.68722605705261)
+people_48.jpeg
+(1, ' : ', 'rifle', ' : ', 82.54833221435547)
+people_49.jpeg : Not a weapon
+people_50.jpeg : Not a weapon
+photo_41.jpeg
+(1, ' : ', 'non-weapons', ' : ', 90.14744162559509)
+photo_42.jpeg : Not a weapon
+photo_43.jpeg : Not a weapon
+photo_44.jpeg
+(1, ' : ', 'rifle', ' : ', 95.67938446998596)
+photo_45.jpeg
+(1, ' : ', 'rifle', ' : ', 81.33571743965149)
+photo_46.jpeg : Not a weapon
+photo_47.jpeg
+(1, ' : ', 'non-weapons', ' : ', 87.10123300552368)
+photo_48.png : Not a weapon
+photo_49.jpeg : Not a weapon
+photo_50.jpeg : Not a weapon
+pistol_301.png : Not a weapon
+pistol_302.jpeg : Not a weapon
+pistol_303.png : Not a weapon
+pistol_304.jpeg : Not a weapon
+pistol_305.jpeg : Not a weapon
+pistol_306.jpeg : Not a weapon
+pistol_307.jpeg : Not a weapon
+pistol_308.jpeg : Not a weapon
+pistol_309.jpeg : Not a weapon
+pistol_310.jpeg : Not a weapon
+pistol_311.png : Not a weapon
+pistol_312.jpeg : Not a weapon
+pistol_313.jpeg : Not a weapon
+pistol_314.jpeg : Not a weapon
+pistol_315.jpeg : Not a weapon
+pistol_316.jpeg : Not a weapon
+pistol_317.jpeg : Not a weapon
+pistol_318.jpeg : Not a weapon
+pistol_319.jpeg : Not a weapon
+pistol_320.jpeg : Not a weapon
+pistol_321.jpeg : Not a weapon
+pistol_322.jpeg : Not a weapon
+pistol_323.jpeg : Not a weapon
+pistol_324.jpeg : Not a weapon
+pistol_325.png
+(1, ' : ', 'uzi', ' : ', 90.50365090370178)
+pistol_326.jpeg : Not a weapon
+pistol_327.jpeg : Not a weapon
+pistol_328.jpeg : Not a weapon
+pistol_329.png : Not a weapon
+pistol_330.jpeg : Not a weapon
+pistol_331.jpeg : Not a weapon
+pistol_332.png : Not a weapon
+pistol_333.jpeg : Not a weapon
+pistol_334.jpeg : Not a weapon
+pistol_335.jpeg : Not a weapon
+pistol_336.jpeg : Not a weapon
+pistol_337.jpeg : Not a weapon
+pistol_338.jpeg : Not a weapon
+pistol_339.jpeg : Not a weapon
+pistol_340.jpeg : Not a weapon
+pistol_341.jpeg : Not a weapon
+pistol_342.jpeg : Not a weapon
+pistol_343.jpeg : Not a weapon
+pistol_344.jpeg : Not a weapon
+pistol_345.jpeg : Not a weapon
+pistol_346.jpeg : Not a weapon
+pistol_347.jpeg : Not a weapon
+pistol_348.jpeg : Not a weapon
+pistol_349.jpeg : Not a weapon
+pistol_350.jpeg : Not a weapon
+pistol_351.jpeg : Not a weapon
+pistol_352.jpeg : Not a weapon
+pistol_353.jpeg : Not a weapon
+pistol_354.jpeg : Not a weapon
+pistol_355.jpeg : Not a weapon
+pistol_356.jpeg : Not a weapon
+pistol_357.jpeg : Not a weapon
+pistol_358.jpeg : Not a weapon
+pistol_359.jpeg : Not a weapon
+pistol_360.jpeg : Not a weapon
+pistol_361.jpeg : Not a weapon
+pistol_362.jpeg : Not a weapon
+pistol_363.jpeg : Not a weapon
+pistol_364.jpeg : Not a weapon
+pistol_365.jpeg : Not a weapon
+pistol_366.jpeg : Not a weapon
+pistol_367.jpeg : Not a weapon
+pistol_368.jpeg : Not a weapon
+pistol_369.jpeg : Not a weapon
+pistol_370.jpeg : Not a weapon
+pistol_371.jpeg : Not a weapon
+pistol_372.png : Not a weapon
+pistol_373.jpeg : Not a weapon
+pistol_374.png : Not a weapon
+pistol_375.jpeg : Not a weapon
+pistol_376.jpeg : Not a weapon
+pistol_377.jpeg : Not a weapon
+pistol_378.jpeg : Not a weapon
+pistol_379.jpeg : Not a weapon
+pistol_380.jpeg : Not a weapon
+pistol_381.jpeg : Not a weapon
+pistol_382.png : Not a weapon
+pistol_383.jpeg : Not a weapon
+pistol_384.jpeg : Not a weapon
+pistol_385.jpeg : Not a weapon
+pistol_386.jpeg : Not a weapon
+pistol_387.jpeg : Not a weapon
+pistol_388.jpeg : Not a weapon
+pistol_389.jpeg : Not a weapon
+pistol_390.jpeg : Not a weapon
+pistol_391.jpeg : Not a weapon
+pistol_392.jpeg : Not a weapon
+pistol_393.jpeg : Not a weapon
+pistol_394.jpeg : Not a weapon
+pistol_395.jpeg : Not a weapon
+pistol_396.png
+(1, ' : ', 'uzi', ' : ', 90.50365090370178)
+pistol_397.jpeg : Not a weapon
+pistol_398.jpeg : Not a weapon
+pistol_399.jpeg : Not a weapon
+pistol_400.png : Not a weapon
+plants_41.jpeg : Not a weapon
+plants_42.jpeg : Not a weapon
+plants_43.jpeg
+(1, ' : ', 'rifle', ' : ', 96.25834822654724)
+plants_44.jpeg : Not a weapon
+plants_45.jpeg : Not a weapon
+plants_46.jpeg : Not a weapon
+plants_47.jpeg
+(1, ' : ', 'rifle', ' : ', 80.94777464866638)
+plants_48.jpeg : Not a weapon
+plants_49.jpeg : Not a weapon
+plants_50.jpeg : Not a weapon
+revolver_301.jpeg : Not a weapon
+revolver_302.jpeg : Not a weapon
+revolver_303.jpeg : Not a weapon
+revolver_304.png : Not a weapon
+revolver_305.jpeg : Not a weapon
+revolver_306.jpeg : Not a weapon
+revolver_307.jpeg : Not a weapon
+revolver_308.jpeg
+(1, ' : ', 'revolver', ' : ', 80.40031790733337)
+revolver_309.jpeg : Not a weapon
+revolver_310.jpeg : Not a weapon
+revolver_311.jpeg : Not a weapon
+revolver_312.jpeg : Not a weapon
+revolver_313.jpeg : Not a weapon
+revolver_314.jpeg : Not a weapon
+revolver_315.jpeg : Not a weapon
+revolver_316.jpeg : Not a weapon
+revolver_317.jpeg : Not a weapon
+revolver_318.png : Not a weapon
+revolver_319.jpeg : Not a weapon
+revolver_320.jpeg : Not a weapon
+revolver_321.jpeg : Not a weapon
+revolver_322.png : Not a weapon
+revolver_323.jpeg : Not a weapon
+revolver_324.png : Not a weapon
+revolver_325.jpeg : Not a weapon
+revolver_326.jpeg : Not a weapon
+revolver_327.jpeg : Not a weapon
+revolver_328.jpeg : Not a weapon
+revolver_329.jpeg : Not a weapon
+revolver_330.jpeg
+(1, ' : ', 'rifle', ' : ', 83.01454186439514)
+revolver_331.jpeg : Not a weapon
+revolver_332.jpeg : Not a weapon
+revolver_333.png : Not a weapon
+revolver_334.jpeg : Not a weapon
+revolver_335.jpeg : Not a weapon
+revolver_336.jpeg : Not a weapon
+revolver_337.jpeg : Not a weapon
+revolver_338.jpeg : Not a weapon
+revolver_339.jpeg : Not a weapon
+revolver_340.jpeg : Not a weapon
+revolver_341.jpeg : Not a weapon
+revolver_342.jpeg
+(1, ' : ', 'rifle', ' : ', 87.6128613948822)
+revolver_343.jpeg : Not a weapon
+revolver_344.jpeg : Not a weapon
+revolver_345.jpeg : Not a weapon
+revolver_346.jpeg : Not a weapon
+revolver_347.jpeg : Not a weapon
+revolver_348.jpeg : Not a weapon
+revolver_349.jpeg : Not a weapon
+revolver_350.jpeg : Not a weapon
+revolver_351.jpeg : Not a weapon
+revolver_352.jpeg : Not a weapon
+revolver_353.png : Not a weapon
+revolver_354.jpeg : Not a weapon
+revolver_355.jpeg : Not a weapon
+revolver_356.jpeg : Not a weapon
+revolver_357.jpeg : Not a weapon
+revolver_358.jpeg : Not a weapon
+revolver_359.jpeg : Not a weapon
+revolver_360.jpeg : Not a weapon
+revolver_361.jpeg : Not a weapon
+revolver_362.jpeg : Not a weapon
+revolver_363.jpeg : Not a weapon
+revolver_364.jpeg : Not a weapon
+revolver_365.jpeg : Not a weapon
+revolver_366.jpeg : Not a weapon
+revolver_367.jpeg
+(1, ' : ', 'revolver', ' : ', 84.78119373321533)
+revolver_368.jpeg : Not a weapon
+revolver_369.jpeg : Not a weapon
+revolver_370.jpeg : Not a weapon
+revolver_371.jpeg : Not a weapon
+revolver_372.jpeg : Not a weapon
+revolver_373.jpeg : Not a weapon
+revolver_374.jpeg : Not a weapon
+revolver_375.jpeg : Not a weapon
+revolver_376.jpeg : Not a weapon
+revolver_377.jpeg : Not a weapon
+revolver_378.jpeg : Not a weapon
+revolver_379.jpeg : Not a weapon
+revolver_380.jpeg : Not a weapon
+revolver_381.png : Not a weapon
+revolver_382.jpeg : Not a weapon
+revolver_383.jpeg : Not a weapon
+revolver_384.jpeg : Not a weapon
+revolver_385.jpeg
+(1, ' : ', 'revolver', ' : ', 80.40031790733337)
+revolver_386.jpeg : Not a weapon
+revolver_387.jpeg : Not a weapon
+revolver_388.jpeg : Not a weapon
+revolver_389.jpeg : Not a weapon
+revolver_390.jpeg : Not a weapon
+revolver_391.jpeg : Not a weapon
+revolver_392.jpeg : Not a weapon
+revolver_393.jpeg : Not a weapon
+revolver_394.jpeg : Not a weapon
+revolver_395.png : Not a weapon
+revolver_396.jpeg : Not a weapon
+revolver_397.jpeg : Not a weapon
+revolver_398.jpeg : Not a weapon
+revolver_399.png : Not a weapon
+revolver_400.jpeg : Not a weapon
+riffle_301.png
+(1, ' : ', 'rifle', ' : ', 86.43676042556763)
+riffle_302.jpeg : Not a weapon
+riffle_303.jpeg : Not a weapon
+riffle_304.jpeg : Not a weapon
+riffle_305.jpeg : Not a weapon
+riffle_306.png : Not a weapon
+riffle_307.jpeg
+(1, ' : ', 'rifle', ' : ', 81.76420331001282)
+riffle_308.jpeg : Not a weapon
+riffle_309.png
+(1, ' : ', 'rifle', ' : ', 95.4097032546997)
+riffle_310.jpeg
+(1, ' : ', 'rifle', ' : ', 95.84895968437195)
+riffle_311.png : Not a weapon
+riffle_312.jpeg
+(1, ' : ', 'rifle', ' : ', 91.40750169754028)
+riffle_313.jpeg
+(1, ' : ', 'rifle', ' : ', 90.31574726104736)
+riffle_314.jpeg : Not a weapon
+riffle_315.png : Not a weapon
+riffle_316.jpeg : Not a weapon
+riffle_317.jpeg
+(1, ' : ', 'rifle', ' : ', 86.2389087677002)
+riffle_318.jpeg
+(1, ' : ', 'rifle', ' : ', 86.42833232879639)
+riffle_319.png
+(1, ' : ', 'rifle', ' : ', 86.58142685890198)
+riffle_320.jpeg
+(1, ' : ', 'rifle', ' : ', 98.75243902206421)
+riffle_321.jpeg : Not a weapon
+riffle_322.jpeg
+(1, ' : ', 'rifle', ' : ', 89.83668088912964)
+riffle_323.png : Not a weapon
+riffle_324.jpeg : Not a weapon
+riffle_325.jpeg
+(1, ' : ', 'rifle', ' : ', 80.34963607788086)
+riffle_326.jpeg
+(1, ' : ', 'rifle', ' : ', 89.57613706588745)
+riffle_327.jpeg : Not a weapon
+riffle_328.jpeg : Not a weapon
+riffle_329.jpeg : Not a weapon
+riffle_330.png
+(1, ' : ', 'rifle', ' : ', 90.7979965209961)
+riffle_331.jpeg : Not a weapon
+riffle_332.jpeg : Not a weapon
+riffle_333.jpeg : Not a weapon
+riffle_334.jpeg : Not a weapon
+riffle_335.png
+(1, ' : ', 'rifle', ' : ', 99.36018586158752)
+riffle_336.jpeg : Not a weapon
+riffle_337.jpeg : Not a weapon
+riffle_338.png
+(1, ' : ', 'rifle', ' : ', 96.53304815292358)
+riffle_339.jpeg : Not a weapon
+riffle_340.jpeg
+(1, ' : ', 'rifle', ' : ', 83.50836038589478)
+riffle_341.jpeg : Not a weapon
+riffle_342.png
+(1, ' : ', 'rifle', ' : ', 94.99149918556213)
+riffle_343.jpeg
+(1, ' : ', 'rifle', ' : ', 91.4412260055542)
+riffle_344.jpeg
+(1, ' : ', 'rifle', ' : ', 99.77720379829407)
+riffle_346.jpeg
+(1, ' : ', 'rifle', ' : ', 99.46964979171753)
+riffle_347.jpeg
+(1, ' : ', 'rifle', ' : ', 88.51608037948608)
+riffle_348.jpeg
+(1, ' : ', 'rifle', ' : ', 93.25357675552368)
+riffle_349.png : Not a weapon
+riffle_350.jpeg : Not a weapon
+riffle_351.jpeg : Not a weapon
+riffle_352.jpeg : Not a weapon
+riffle_353.jpeg : Not a weapon
+riffle_354.jpeg : Not a weapon
+riffle_355.jpeg : Not a weapon
+riffle_356.png
+(1, ' : ', 'rifle', ' : ', 99.74368810653687)
+riffle_357.png
+(1, ' : ', 'rifle', ' : ', 80.2723228931427)
+riffle_358.jpeg : Not a weapon
+riffle_359.jpeg
+(1, ' : ', 'rifle', ' : ', 95.5561637878418)
+riffle_360.jpeg : Not a weapon
+riffle_361.jpeg
+(1, ' : ', 'rifle', ' : ', 93.62862706184387)
+riffle_362.jpeg
+(1, ' : ', 'rifle', ' : ', 84.29805040359497)
+riffle_363.jpeg
+(1, ' : ', 'rifle', ' : ', 95.51345705986023)
+riffle_364.png : Not a weapon
+riffle_365.jpeg : Not a weapon
+riffle_366.png : Not a weapon
+riffle_367.png
+(1, ' : ', 'rifle', ' : ', 91.293466091156)
+riffle_368.jpeg : Not a weapon
+riffle_369.jpeg
+(1, ' : ', 'rifle', ' : ', 80.4275631904602)
+riffle_370.jpeg : Not a weapon
+riffle_371.png : Not a weapon
+riffle_372.jpeg : Not a weapon
+riffle_373.png : Not a weapon
+riffle_374.jpeg : Not a weapon
+riffle_375.jpeg : Not a weapon
+riffle_376.png : Not a weapon
+riffle_377.jpeg
+(1, ' : ', 'rifle', ' : ', 98.8654375076294)
+riffle_378.png
+(1, ' : ', 'rifle', ' : ', 81.10913038253784)
+riffle_379.png : Not a weapon
+riffle_380.jpeg
+(1, ' : ', 'rifle', ' : ', 88.22356462478638)
+riffle_381.jpeg : Not a weapon
+riffle_382.png
+(1, ' : ', 'rifle', ' : ', 86.43676042556763)
+riffle_383.jpeg : Not a weapon
+riffle_384.jpeg : Not a weapon
+riffle_385.jpeg : Not a weapon
+riffle_386.jpeg : Not a weapon
+riffle_387.png : Not a weapon
+riffle_388.jpeg
+(1, ' : ', 'rifle', ' : ', 81.76420331001282)
+riffle_389.jpeg : Not a weapon
+riffle_390.png
+(1, ' : ', 'rifle', ' : ', 95.4097032546997)
+riffle_391.jpeg
+(1, ' : ', 'rifle', ' : ', 95.84895968437195)
+riffle_392.png : Not a weapon
+riffle_393.jpeg
+(1, ' : ', 'rifle', ' : ', 91.40750169754028)
+riffle_394.jpeg
+(1, ' : ', 'rifle', ' : ', 90.31574726104736)
+riffle_395.jpeg : Not a weapon
+riffle_396.png : Not a weapon
+riffle_397.jpeg : Not a weapon
+riffle_398.jpeg
+(1, ' : ', 'rifle', ' : ', 86.2389087677002)
+riffle_399.jpeg
+(1, ' : ', 'rifle', ' : ', 86.42833232879639)
+riffle_400.png
+(1, ' : ', 'rifle', ' : ', 86.58142685890198)
+rifle_301.jpeg
+(1, ' : ', 'rifle', ' : ', 99.16393160820007)
+rifle_302.jpeg : Not a weapon
+rifle_303.jpeg
+(1, ' : ', 'rifle', ' : ', 85.02299785614014)
+rifle_304.jpeg : Not a weapon
+rifle_305.jpeg : Not a weapon
+rifle_306.jpeg
+(1, ' : ', 'rifle', ' : ', 83.57800245285034)
+rifle_307.png : Not a weapon
+rifle_308.png : Not a weapon
+rifle_309.jpeg : Not a weapon
+rifle_310.jpeg
+(1, ' : ', 'rifle', ' : ', 98.79448413848877)
+rifle_311.jpeg : Not a weapon
+rifle_312.jpeg
+(1, ' : ', 'rifle', ' : ', 92.90841817855835)
+rifle_313.jpeg : Not a weapon
+rifle_314.jpeg
+(1, ' : ', 'rifle', ' : ', 85.9402060508728)
+rifle_315.jpeg : Not a weapon
+rifle_316.jpeg : Not a weapon
+rifle_317.jpeg : Not a weapon
+rifle_318.jpeg
+(1, ' : ', 'rifle', ' : ', 83.8887870311737)
+rifle_319.jpeg
+(1, ' : ', 'rifle', ' : ', 97.71589636802673)
+rifle_320.jpeg : Not a weapon
+rifle_321.jpeg : Not a weapon
+rifle_322.jpeg : Not a weapon
+rifle_323.png : Not a weapon
+rifle_324.png : Not a weapon
+rifle_325.png : Not a weapon
+rifle_326.jpeg : Not a weapon
+rifle_327.jpeg : Not a weapon
+rifle_328.jpeg : Not a weapon
+rifle_329.jpeg : Not a weapon
+rifle_330.jpeg : Not a weapon
+rifle_331.jpeg
+(1, ' : ', 'rifle', ' : ', 80.41510581970215)
+rifle_332.jpeg
+(1, ' : ', 'rifle', ' : ', 86.0917866230011)
+rifle_333.jpeg : Not a weapon
+rifle_334.jpeg : Not a weapon
+rifle_335.jpeg
+(1, ' : ', 'rifle', ' : ', 92.16538071632385)
+rifle_336.jpeg : Not a weapon
+rifle_337.png : Not a weapon
+rifle_338.jpeg : Not a weapon
+rifle_339.jpeg : Not a weapon
+rifle_340.jpeg : Not a weapon
+rifle_341.jpeg : Not a weapon
+rifle_342.jpeg : Not a weapon
+rifle_343.jpeg : Not a weapon
+rifle_344.jpeg : Not a weapon
+rifle_345.png : Not a weapon
+rifle_346.jpeg : Not a weapon
+rifle_347.jpeg : Not a weapon
+rifle_348.jpeg
+(1, ' : ', 'rifle', ' : ', 85.80162525177002)
+rifle_349.jpeg : Not a weapon
+rifle_350.jpeg : Not a weapon
+rifle_351.jpeg : Not a weapon
+rifle_352.jpeg : Not a weapon
+rifle_353.png : Not a weapon
+rifle_354.jpeg : Not a weapon
+rifle_355.jpeg : Not a weapon
+rifle_356.jpeg
+(1, ' : ', 'rifle', ' : ', 97.83793687820435)
+rifle_357.jpeg
+(1, ' : ', 'rifle', ' : ', 86.04981303215027)
+rifle_358.jpeg
+(1, ' : ', 'rifle', ' : ', 86.34721040725708)
+rifle_359.png : Not a weapon
+rifle_360.png
+(1, ' : ', 'rifle', ' : ', 88.20713758468628)
+rifle_361.jpeg : Not a weapon
+rifle_362.jpeg : Not a weapon
+rifle_363.jpeg : Not a weapon
+rifle_364.jpeg : Not a weapon
+rifle_365.jpeg : Not a weapon
+rifle_366.jpeg : Not a weapon
+rifle_367.jpeg
+(1, ' : ', 'rifle', ' : ', 97.29843735694885)
+rifle_368.jpeg : Not a weapon
+rifle_369.jpeg
+(1, ' : ', 'machine_gun', ' : ', 90.55938124656677)
+rifle_370.jpeg : Not a weapon
+rifle_371.jpeg : Not a weapon
+rifle_372.jpeg : Not a weapon
+rifle_373.png : Not a weapon
+rifle_374.jpeg : Not a weapon
+rifle_375.jpeg
+(1, ' : ', 'rifle', ' : ', 99.16393160820007)
+rifle_376.jpeg : Not a weapon
+rifle_377.jpeg
+(1, ' : ', 'rifle', ' : ', 85.02299785614014)
+rifle_378.jpeg : Not a weapon
+rifle_379.jpeg : Not a weapon
+rifle_380.jpeg
+(1, ' : ', 'rifle', ' : ', 83.57800245285034)
+rifle_381.png : Not a weapon
+rifle_382.png : Not a weapon
+rifle_383.jpeg : Not a weapon
+rifle_384.jpeg
+(1, ' : ', 'rifle', ' : ', 98.79448413848877)
+rifle_385.jpeg : Not a weapon
+rifle_386.jpeg
+(1, ' : ', 'rifle', ' : ', 92.90841817855835)
+rifle_387.jpeg : Not a weapon
+rifle_388.jpeg
+(1, ' : ', 'rifle', ' : ', 85.9402060508728)
+rifle_389.jpeg : Not a weapon
+rifle_390.jpeg : Not a weapon
+rifle_391.jpeg : Not a weapon
+rifle_392.jpeg
+(1, ' : ', 'rifle', ' : ', 83.8887870311737)
+rifle_393.jpeg
+(1, ' : ', 'rifle', ' : ', 97.71589636802673)
+rifle_394.jpeg : Not a weapon
+rifle_395.jpeg : Not a weapon
+rifle_396.jpeg : Not a weapon
+rifle_397.png : Not a weapon
+rifle_398.png : Not a weapon
+rifle_399.png : Not a weapon
+rifle_400.jpeg : Not a weapon
+rocket_launcher_301.jpeg : Not a weapon
+rocket_launcher_302.png : Not a weapon
+rocket_launcher_303.png : Not a weapon
+rocket_launcher_304.png : Not a weapon
+rocket_launcher_305.png : Not a weapon
+rocket_launcher_306.jpeg : Not a weapon
+rocket_launcher_307.jpeg : Not a weapon
+rocket_launcher_308.png : Not a weapon
+rocket_launcher_309.jpeg : Not a weapon
+rocket_launcher_310.jpeg : Not a weapon
+rocket_launcher_311.jpeg : Not a weapon
+rocket_launcher_312.jpeg : Not a weapon
+rocket_launcher_313.jpeg : Not a weapon
+rocket_launcher_314.png : Not a weapon
+rocket_launcher_315.jpeg : Not a weapon
+rocket_launcher_316.png : Not a weapon
+rocket_launcher_317.jpeg : Not a weapon
+rocket_launcher_318.png : Not a weapon
+rocket_launcher_319.png : Not a weapon
+rocket_launcher_320.jpeg : Not a weapon
+rocket_launcher_321.jpeg : Not a weapon
+rocket_launcher_322.png : Not a weapon
+rocket_launcher_323.jpeg
+(1, ' : ', 'rifle', ' : ', 86.955326795578)
+rocket_launcher_324.png
+(1, ' : ', 'rifle', ' : ', 81.75394535064697)
+rocket_launcher_325.jpeg
+(1, ' : ', 'rifle', ' : ', 81.09451532363892)
+rocket_launcher_326.jpeg : Not a weapon
+rocket_launcher_327.jpeg : Not a weapon
+rocket_launcher_328.jpeg : Not a weapon
+rocket_launcher_329.jpeg : Not a weapon
+rocket_launcher_330.jpeg : Not a weapon
+rocket_launcher_331.jpeg : Not a weapon
+rocket_launcher_332.jpeg : Not a weapon
+rocket_launcher_333.jpeg
+(1, ' : ', 'non-weapons', ' : ', 91.66158437728882)
+rocket_launcher_334.jpeg : Not a weapon
+rocket_launcher_335.jpeg
+(1, ' : ', 'non-weapons', ' : ', 88.33374381065369)
+rocket_launcher_336.jpeg : Not a weapon
+rocket_launcher_337.jpeg : Not a weapon
+rocket_launcher_338.jpeg : Not a weapon
+rocket_launcher_339.jpeg : Not a weapon
+rocket_launcher_340.jpeg : Not a weapon
+rocket_launcher_341.jpeg : Not a weapon
+rocket_launcher_342.png : Not a weapon
+rocket_launcher_343.jpeg : Not a weapon
+rocket_launcher_344.jpeg : Not a weapon
+rocket_launcher_345.jpeg : Not a weapon
+rocket_launcher_346.jpeg : Not a weapon
+rocket_launcher_347.png : Not a weapon
+rocket_launcher_348.jpeg : Not a weapon
+rocket_launcher_349.png : Not a weapon
+rocket_launcher_350.jpeg : Not a weapon
+rocket_launcher_351.png : Not a weapon
+rocket_launcher_352.jpeg : Not a weapon
+rocket_launcher_353.jpeg : Not a weapon
+rocket_launcher_354.jpeg : Not a weapon
+rocket_launcher_355.jpeg : Not a weapon
+rocket_launcher_356.jpeg : Not a weapon
+rocket_launcher_357.jpeg : Not a weapon
+rocket_launcher_358.jpeg : Not a weapon
+rocket_launcher_359.jpeg : Not a weapon
+rocket_launcher_360.png : Not a weapon
+rocket_launcher_361.jpeg : Not a weapon
+rocket_launcher_362.jpeg : Not a weapon
+rocket_launcher_363.png : Not a weapon
+rocket_launcher_364.jpeg : Not a weapon
+rocket_launcher_365.jpeg : Not a weapon
+rocket_launcher_366.jpeg : Not a weapon
+rocket_launcher_367.jpeg : Not a weapon
+rocket_launcher_368.jpeg : Not a weapon
+rocket_launcher_369.jpeg : Not a weapon
+rocket_launcher_370.jpeg : Not a weapon
+rocket_launcher_371.jpeg : Not a weapon
+rocket_launcher_372.jpeg : Not a weapon
+rocket_launcher_373.png : Not a weapon
+rocket_launcher_374.jpeg : Not a weapon
+rocket_launcher_375.jpeg : Not a weapon
+rocket_launcher_376.png : Not a weapon
+rocket_launcher_377.jpeg : Not a weapon
+rocket_launcher_378.jpeg : Not a weapon
+rocket_launcher_379.png : Not a weapon
+rocket_launcher_380.png : Not a weapon
+rocket_launcher_381.png : Not a weapon
+rocket_launcher_382.png : Not a weapon
+rocket_launcher_383.jpeg : Not a weapon
+rocket_launcher_384.jpeg : Not a weapon
+rocket_launcher_385.jpeg : Not a weapon
+rocket_launcher_386.jpeg : Not a weapon
+rocket_launcher_387.jpeg : Not a weapon
+rocket_launcher_388.jpeg : Not a weapon
+rocket_launcher_389.jpeg : Not a weapon
+rocket_launcher_390.png : Not a weapon
+rocket_launcher_391.jpeg : Not a weapon
+rocket_launcher_392.png : Not a weapon
+rocket_launcher_393.jpeg : Not a weapon
+rocket_launcher_394.png : Not a weapon
+rocket_launcher_395.png : Not a weapon
+rocket_launcher_396.jpeg : Not a weapon
+rocket_launcher_397.jpeg : Not a weapon
+rocket_launcher_398.png : Not a weapon
+rocket_launcher_399.jpeg
+(1, ' : ', 'rifle', ' : ', 86.955326795578)
+rocket_launcher_400.png
+(1, ' : ', 'rifle', ' : ', 81.75394535064697)
+shotgun_301.jpeg : Not a weapon
+shotgun_302.png : Not a weapon
+shotgun_303.jpeg : Not a weapon
+shotgun_304.jpeg : Not a weapon
+shotgun_305.jpeg : Not a weapon
+shotgun_306.jpeg : Not a weapon
+shotgun_307.jpeg : Not a weapon
+shotgun_308.jpeg : Not a weapon
+shotgun_309.jpeg : Not a weapon
+shotgun_310.jpeg : Not a weapon
+shotgun_311.jpeg : Not a weapon
+shotgun_312.jpeg : Not a weapon
+shotgun_313.jpeg : Not a weapon
+shotgun_314.jpeg : Not a weapon
+shotgun_315.jpeg : Not a weapon
+shotgun_316.jpeg
+(1, ' : ', 'rifle', ' : ', 92.0772135257721)
+shotgun_317.jpeg : Not a weapon
+shotgun_318.jpeg : Not a weapon
+shotgun_319.jpeg : Not a weapon
+shotgun_320.jpeg : Not a weapon
+shotgun_321.png : Not a weapon
+shotgun_322.jpeg : Not a weapon
+shotgun_323.jpeg : Not a weapon
+shotgun_325.jpeg : Not a weapon
+shotgun_326.png : Not a weapon
+shotgun_327.jpeg : Not a weapon
+shotgun_328.png : Not a weapon
+shotgun_329.jpeg : Not a weapon
+shotgun_330.jpeg : Not a weapon
+shotgun_331.png : Not a weapon
+shotgun_332.jpeg : Not a weapon
+shotgun_333.jpeg : Not a weapon
+shotgun_334.jpeg : Not a weapon
+shotgun_335.jpeg : Not a weapon
+shotgun_336.jpeg : Not a weapon
+shotgun_337.jpeg
+(1, ' : ', 'rifle', ' : ', 96.79861068725586)
+shotgun_338.jpeg : Not a weapon
+shotgun_339.jpeg : Not a weapon
+shotgun_340.jpeg : Not a weapon
+shotgun_341.jpeg : Not a weapon
+shotgun_342.jpeg : Not a weapon
+shotgun_343.jpeg : Not a weapon
+shotgun_344.jpeg : Not a weapon
+shotgun_345.jpeg : Not a weapon
+shotgun_346.jpeg : Not a weapon
+shotgun_347.jpeg : Not a weapon
+shotgun_348.jpeg : Not a weapon
+shotgun_349.jpeg : Not a weapon
+shotgun_350.jpeg : Not a weapon
+shotgun_351.jpeg : Not a weapon
+shotgun_352.jpeg : Not a weapon
+shotgun_353.jpeg : Not a weapon
+shotgun_354.jpeg : Not a weapon
+shotgun_355.jpeg : Not a weapon
+shotgun_356.jpeg : Not a weapon
+shotgun_357.jpeg : Not a weapon
+shotgun_358.png : Not a weapon
+shotgun_359.jpeg : Not a weapon
+shotgun_360.png : Not a weapon
+shotgun_361.png : Not a weapon
+shotgun_362.jpeg : Not a weapon
+shotgun_363.jpeg : Not a weapon
+shotgun_364.jpeg : Not a weapon
+shotgun_365.jpeg : Not a weapon
+shotgun_366.jpeg : Not a weapon
+shotgun_367.jpeg : Not a weapon
+shotgun_368.jpeg : Not a weapon
+shotgun_369.jpeg : Not a weapon
+shotgun_370.jpeg : Not a weapon
+shotgun_371.jpeg : Not a weapon
+shotgun_372.jpeg : Not a weapon
+shotgun_373.jpeg : Not a weapon
+shotgun_374.jpeg : Not a weapon
+shotgun_375.jpeg : Not a weapon
+shotgun_376.jpeg : Not a weapon
+shotgun_377.png : Not a weapon
+shotgun_378.jpeg : Not a weapon
+shotgun_379.jpeg : Not a weapon
+shotgun_380.jpeg : Not a weapon
+shotgun_381.jpeg : Not a weapon
+shotgun_382.jpeg : Not a weapon
+shotgun_383.jpeg : Not a weapon
+shotgun_384.jpeg : Not a weapon
+shotgun_385.jpeg : Not a weapon
+shotgun_386.jpeg : Not a weapon
+shotgun_387.jpeg : Not a weapon
+shotgun_388.jpeg : Not a weapon
+shotgun_389.jpeg : Not a weapon
+shotgun_390.jpeg : Not a weapon
+shotgun_391.jpeg
+(1, ' : ', 'rifle', ' : ', 92.0772135257721)
+shotgun_392.jpeg : Not a weapon
+shotgun_393.jpeg : Not a weapon
+shotgun_394.jpeg : Not a weapon
+shotgun_395.jpeg : Not a weapon
+shotgun_396.png : Not a weapon
+shotgun_397.jpeg : Not a weapon
+shotgun_398.jpeg : Not a weapon
+shotgun_400.jpeg : Not a weapon
+table_41.jpeg : Not a weapon
+table_42.jpeg : Not a weapon
+table_43.jpeg
+(1, ' : ', 'non-weapons', ' : ', 96.86610698699951)
+table_44.jpeg : Not a weapon
+table_45.png : Not a weapon
+table_46.jpeg : Not a weapon
+table_47.jpeg
+(1, ' : ', 'non-weapons', ' : ', 93.10660362243652)
+table_48.jpeg : Not a weapon
+table_49.jpeg : Not a weapon
+table_50.jpeg : Not a weapon
+television_41.jpeg : Not a weapon
+television_42.jpeg : Not a weapon
+television_43.jpeg : Not a weapon
+television_44.jpeg : Not a weapon
+television_45.jpeg
+(1, ' : ', 'non-weapons', ' : ', 93.34079027175903)
+television_46.jpeg : Not a weapon
+television_47.jpeg : Not a weapon
+television_48.jpeg : Not a weapon
+television_49.jpeg
+(1, ' : ', 'non-weapons', ' : ', 98.27799797058105)
+television_50.jpeg
+(1, ' : ', 'non-weapons', ' : ', 91.36123061180115)
+umbrella_41.jpeg : Not a weapon
+umbrella_42.jpeg : Not a weapon
+umbrella_43.jpeg : Not a weapon
+umbrella_44.jpeg : Not a weapon
+umbrella_45.png : Not a weapon
+umbrella_46.jpeg : Not a weapon
+umbrella_47.jpeg : Not a weapon
+umbrella_48.jpeg : Not a weapon
+umbrella_49.jpeg : Not a weapon
+umbrella_50.png : Not a weapon
+uzi_301.jpeg : Not a weapon
+uzi_302.jpeg : Not a weapon
+uzi_303.jpeg : Not a weapon
+uzi_304.jpeg : Not a weapon
+uzi_305.png : Not a weapon
+uzi_306.jpeg
+(1, ' : ', 'uzi', ' : ', 87.42484450340271)
+uzi_307.jpeg : Not a weapon
+uzi_308.jpeg
+(1, ' : ', 'uzi', ' : ', 96.42017483711243)
+uzi_309.jpeg : Not a weapon
+uzi_310.jpeg : Not a weapon
+uzi_311.jpeg : Not a weapon
+uzi_312.jpeg : Not a weapon
+uzi_313.jpeg : Not a weapon
+uzi_314.jpeg : Not a weapon
+uzi_315.jpeg : Not a weapon
+uzi_316.jpeg : Not a weapon
+uzi_317.png : Not a weapon
+uzi_318.jpeg : Not a weapon
+uzi_319.jpeg : Not a weapon
+uzi_320.png : Not a weapon
+uzi_321.jpeg : Not a weapon
+uzi_322.jpeg : Not a weapon
+uzi_323.jpeg
+(1, ' : ', 'rifle', ' : ', 87.85009384155273)
+uzi_324.jpeg : Not a weapon
+uzi_325.jpeg : Not a weapon
+uzi_326.jpeg : Not a weapon
+uzi_327.jpeg : Not a weapon
+uzi_328.jpeg : Not a weapon
+uzi_329.jpeg : Not a weapon
+uzi_330.jpeg : Not a weapon
+uzi_331.jpeg : Not a weapon
+uzi_332.png : Not a weapon
+uzi_333.jpeg : Not a weapon
+uzi_334.png : Not a weapon
+uzi_335.jpeg : Not a weapon
+uzi_336.jpeg : Not a weapon
+uzi_337.jpeg : Not a weapon
+uzi_338.jpeg : Not a weapon
+uzi_339.jpeg : Not a weapon
+uzi_340.jpeg : Not a weapon
+uzi_341.png : Not a weapon
+uzi_342.jpeg
+(1, ' : ', 'rifle', ' : ', 87.11199164390564)
+uzi_343.jpeg : Not a weapon
+uzi_344.jpeg : Not a weapon
+uzi_345.jpeg : Not a weapon
+uzi_346.jpeg : Not a weapon
+uzi_347.jpeg
+(1, ' : ', 'uzi', ' : ', 80.84808588027954)
+uzi_348.jpeg : Not a weapon
+uzi_349.jpeg : Not a weapon
+uzi_350.jpeg : Not a weapon
+uzi_351.jpeg : Not a weapon
+uzi_352.png : Not a weapon
+uzi_353.png : Not a weapon
+uzi_354.jpeg : Not a weapon
+uzi_355.jpeg : Not a weapon
+uzi_356.jpeg : Not a weapon
+uzi_357.png
+(1, ' : ', 'uzi', ' : ', 90.50365090370178)
+uzi_358.jpeg
+(1, ' : ', 'uzi', ' : ', 95.9380567073822)
+uzi_359.jpeg : Not a weapon
+uzi_360.jpeg
+(1, ' : ', 'uzi', ' : ', 83.85783433914185)
+uzi_361.jpeg : Not a weapon
+uzi_362.jpeg : Not a weapon
+uzi_363.jpeg : Not a weapon
+uzi_364.jpeg : Not a weapon
+uzi_365.jpeg : Not a weapon
+uzi_366.jpeg : Not a weapon
+uzi_367.jpeg : Not a weapon
+uzi_368.jpeg : Not a weapon
+uzi_369.jpeg : Not a weapon
+uzi_370.jpeg : Not a weapon
+uzi_371.jpeg : Not a weapon
+uzi_372.jpeg : Not a weapon
+uzi_373.jpeg : Not a weapon
+uzi_374.jpeg : Not a weapon
+uzi_375.jpeg : Not a weapon
+uzi_376.jpeg : Not a weapon
+uzi_377.png : Not a weapon
+uzi_378.jpeg : Not a weapon
+uzi_379.jpeg : Not a weapon
+uzi_380.png : Not a weapon
+uzi_381.jpeg
+(1, ' : ', 'uzi', ' : ', 88.03709149360657)
+uzi_382.jpeg : Not a weapon
+uzi_383.jpeg : Not a weapon
+uzi_384.jpeg : Not a weapon
+uzi_385.jpeg : Not a weapon
+uzi_386.jpeg : Not a weapon
+uzi_387.jpeg : Not a weapon
+uzi_388.jpeg : Not a weapon
+uzi_389.png : Not a weapon
+uzi_390.jpeg : Not a weapon
+uzi_391.jpeg : Not a weapon
+uzi_392.jpeg : Not a weapon
+uzi_393.jpeg : Not a weapon
+uzi_394.png : Not a weapon
+uzi_395.jpeg
+(1, ' : ', 'uzi', ' : ', 87.42484450340271)
+uzi_396.jpeg : Not a weapon
+uzi_397.jpeg
+(1, ' : ', 'uzi', ' : ', 96.42017483711243)
+uzi_398.jpeg : Not a weapon
+uzi_399.jpeg : Not a weapon
+uzi_400.jpeg : Not a weapon
+watch_41.jpeg
+(1, ' : ', 'non-weapons', ' : ', 92.03047156333923)
+watch_42.jpeg
+(1, ' : ', 'non-weapons', ' : ', 83.81185531616211)
+watch_43.jpeg : Not a weapon
+watch_44.jpeg : Not a weapon
+watch_45.png : Not a weapon
+watch_46.jpeg : Not a weapon
+watch_47.png : Not a weapon
+watch_48.jpeg
+(1, ' : ', 'non-weapons', ' : ', 82.44584202766418)
+watch_49.jpeg : Not a weapon
+watch_50.jpeg : Not a weapon
+End Time = 15:52:38
