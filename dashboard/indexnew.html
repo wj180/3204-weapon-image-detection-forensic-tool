@@ -46,7 +46,13 @@ D:\VM Shared\3204\dashboard\comparison				</div>
 			</div>
 			<div class="panel-wrapper">
 				<div class="panel-head">
-					Weapons Identified
+					Weapons/Non Weapons Identified
+				</div>
+				<div id="chartContainer21" style="height: 650px; max-width: 920px; margin: 0px auto;"></div>
+			</div>
+			<div class="panel-wrapper">
+				<div class="panel-head">
+					Weapons Type Identified
 				</div>
 				<div id="chartContainer2" style="height: 650px; max-width: 920px; margin: 0px auto;"></div>
 			</div>
@@ -81,6 +87,24 @@ D:\VM Shared\3204\dashboard\comparison				</div>
 
 	chart.render();
 	
+	var chart21 = new CanvasJS.Chart("chartContainer21",
+	{
+		theme: "light2",		
+		data: [
+		{       
+			type: "pie",
+			showInLegend: true,
+			toolTipContent: "{y} - #percent %",
+			legendText: "{indexLabel}",
+			dataPoints: [
+				{  y: 993, indexLabel: "Weapon" },
+				{  y: 159, indexLabel: "Non Weapon" },
+			]
+		}
+		]
+	});
+	chart21.render();
+	
 	var chart2 = new CanvasJS.Chart("chartContainer2",
 	{
 		theme: "light2",		
@@ -100,7 +124,6 @@ D:\VM Shared\3204\dashboard\comparison				</div>
 				{  y: 101, indexLabel: "Rocket_launcher"},
 				{  y: 98, indexLabel: "Shotgun"},
 				{  y: 98, indexLabel: "Uzi"},
-				{  y: 159, indexLabel: "Non-weapon"}
 			]
 		}
 		]

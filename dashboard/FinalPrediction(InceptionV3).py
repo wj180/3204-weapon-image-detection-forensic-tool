@@ -11,7 +11,6 @@ import sys
 
 def weaponResult(image_list, drive_name):
     execution_path = os.getcwd()
-
     weapon_acc_list = []
     weapon_found = []
     weapon_found_acc = []
@@ -46,12 +45,13 @@ def weaponResult(image_list, drive_name):
     uzi_avg = 0
     uzi_count = 0
     
+    total_weapon = 0
+    non_weapon = 0
+    
     prediction = CustomImagePrediction()
     prediction.setModelPath(model_path=os.path.join(execution_path, "model_ex-035_acc-0.987719.h5"))
     prediction.setJsonPath(model_json=os.path.join(execution_path, "model_class.json"))
-    # prediction.setModelTypeAsResNet()
     prediction.setModelTypeAsInceptionV3()
-    # prediction.setModelTypeAsDenseNet()
     prediction.loadModel(num_objects=10)
     
     for image_path in image_list:
@@ -61,8 +61,8 @@ def weaponResult(image_list, drive_name):
             line = count , " : " , eachPrediction , " : " , eachProbability
             if count == 1:
                 head, tail = os.path.split(image_path)
-                if (eachProbability > 80) and (eachPrediction != "non-weapon"):
-                    
+                if (eachProbability > 80) and (eachPrediction != "non-weapon"):                    
+                    total_weapon += 1
                     # weapon_found.append(tail + ' - ' + eachPrediction)
                     # weapon_found_acc.append(eachProbability)
                     cdate = datetime.datetime.strptime(time.ctime(os.path.getctime(image_path)), "%c")
@@ -113,6 +113,7 @@ def weaponResult(image_list, drive_name):
                     print(tail)
                     print("Not a weapon" + str(int(eachProbability)))
                     item_non += 1
+                    non_weapon += 1
                 count += 1
                 break
     
@@ -126,7 +127,7 @@ def weaponResult(image_list, drive_name):
         weapon_acc_list.append('{ y: ' + str(gre_avg) + ', label: "Grenade average accuracy"}')       
     if gun_count:
         gun_avg = gun_avg/gun_count
-        weapon_acc_list.append('{ y: ' + str(gun_avg) + ', label: "Machine Gun average accuracy"}')     
+        weapon_acc_list.append('{ y: ' + str(gun_avg) + ', label: "Machine Gun average accuracy"}')
     if pis_count:
         pis_avg = pis_avg/pis_count
         weapon_acc_list.append('{ y: ' + str(pis_avg) + ', label: "Pistol average accuracy"}')     
@@ -181,6 +182,18 @@ def weaponResult(image_list, drive_name):
 
     for line in lines:
         new_content = line
+        
+        if "weapon_count" in line:
+            if total_weapon > 0:
+                new_content = line.replace("weapon_count", str(total_weapon))
+            else:
+                new_content = ""
+                
+        if "non_count" in line:
+            if non_weapon > 0:
+                new_content = line.replace("non_count", str(non_weapon))
+            else:
+                new_content = ""
         
         if "placeholder" in line:
             new_content = ','.join(weapon_acc_list)
@@ -238,18 +251,13 @@ def weaponResult(image_list, drive_name):
                         new_content = line.replace("uzi_count", str(item_uzi))
                     else:
                         new_content = ""
-                elif item == "non-weapon_count":
-                    if item_non > 0:
-                        new_content = line.replace("non-weapon_count", str(item_non))
-                    else:
-                        new_content = ""
         new_contents.append(new_content)
        
     file1.close()
     file2 = open('indexnew.html', 'w')
     file2.writelines(new_contents)
     file2.close()
-    
+
     new = 2  # open in a new tab, if possible
     url = "file://D:/VM Shared/3204/dashboard/dashboard/indexnew.html"
     webbrowser.open(url, new=new)
@@ -267,7 +275,6 @@ def findDir(directory):
                 
 def main():
     drive_name = sys.argv[1]
-
     image_list = findDir(drive_name)
     weaponResult(image_list, drive_name)
 

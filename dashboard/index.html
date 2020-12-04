@@ -47,7 +47,13 @@
 			</div>
 			<div class="panel-wrapper">
 				<div class="panel-head">
-					Weapons Identified
+					Weapons/Non Weapons Identified
+				</div>
+				<div id="chartContainer21" style="height: 650px; max-width: 920px; margin: 0px auto;"></div>
+			</div>
+			<div class="panel-wrapper">
+				<div class="panel-head">
+					Weapons Type Identified
 				</div>
 				<div id="chartContainer2" style="height: 650px; max-width: 920px; margin: 0px auto;"></div>
 			</div>
@@ -83,6 +89,24 @@
 
 	chart.render();
 	
+	var chart21 = new CanvasJS.Chart("chartContainer21",
+	{
+		theme: "light2",		
+		data: [
+		{       
+			type: "pie",
+			showInLegend: true,
+			toolTipContent: "{y} - #percent %",
+			legendText: "{indexLabel}",
+			dataPoints: [
+				{  y: weapon_count, indexLabel: "Weapon" },
+				{  y: non_count, indexLabel: "Non Weapon" },
+			]
+		}
+		]
+	});
+	chart21.render();
+	
 	var chart2 = new CanvasJS.Chart("chartContainer2",
 	{
 		theme: "light2",		
@@ -102,7 +126,6 @@
 				{  y: rocket_launcher_count, indexLabel: "Rocket_launcher"},
 				{  y: shotg_count, indexLabel: "Shotgun"},
 				{  y: uzi_count, indexLabel: "Uzi"},
-				{  y: non-weapon_count, indexLabel: "Non-weapon"}
 			]
 		}
 		]
